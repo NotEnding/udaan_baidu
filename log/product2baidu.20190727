@@ -1,0 +1,1223 @@
+2019-07-27 11:00:40 Upload2Baidu.py[line:30] INFO: 开始上传图片至Baidu,总计剩余 757517 张图片待上传
+2019-07-27 11:00:44 Image2BaiduApi.py[line:120] INFO: {"error_code":18,"error_msg":"Open api qps request limit reached"}
+2019-07-27 11:00:46 Image2BaiduApi.py[line:120] INFO: {"log_id": 1157999116736054395, "cont_sign": "2601966961,1707748425"}
+2019-07-27 11:00:46 Image2BaiduApi.py[line:120] INFO: {"log_id": 9043464543279899963, "cont_sign": "2742601271,2553665961"}
+2019-07-27 11:00:48 Image2BaiduApi.py[line:120] INFO: {"log_id": 8017841445550694203, "cont_sign": "438117651,3881793788"}
+2019-07-27 11:02:03 Image2BaiduApi.py[line:120] INFO: {"log_id": 9212353395015026907, "cont_sign": "2876626474,26280185"}
+2019-07-27 11:02:04 Upload2Baidu.py[line:30] INFO: 开始上传图片至Baidu,总计剩余 757512 张图片待上传
+2019-07-27 11:02:09 Image2BaiduApi.py[line:120] INFO: {"log_id": 7013975831038695035, "cont_sign": "3282042001,292790401"}
+2019-07-27 11:02:11 Image2BaiduApi.py[line:120] INFO: {"log_id": 2647375969226170107, "cont_sign": "1151929429,158744048"}
+2019-07-27 11:02:12 Image2BaiduApi.py[line:120] INFO: {"log_id": 5461066943300428251, "cont_sign": "3361472273,1391332331"}
+2019-07-27 11:02:13 Image2BaiduApi.py[line:120] INFO: {"log_id": 6954203208405348731, "cont_sign": "1816669006,3088618190"}
+2019-07-27 11:10:25 Upload2Baidu.py[line:55] INFO: 开始上传图片至Baidu,总计剩余 757507 张图片待上传
+2019-07-27 11:10:32 Image2BaiduApi.py[line:120] INFO: {"log_id": 49012460337453083, "cont_sign": "4170401847,2836209990"}
+2019-07-27 11:10:36 Image2BaiduApi.py[line:120] INFO: {"log_id": 8822894763258740155, "cont_sign": "2092856710,3994226231"}
+2019-07-27 11:10:48 Image2BaiduApi.py[line:120] INFO: {"log_id": 3802771088543659675, "cont_sign": "3933300039,1833790093"}
+2019-07-27 11:10:56 Image2BaiduApi.py[line:120] INFO: {"log_id": 7903086648047550459, "cont_sign": "1034165612,816648743"}
+2019-07-27 11:11:01 Image2BaiduApi.py[line:120] INFO: {"log_id": 4516831468987626683, "cont_sign": "2591406837,2559820573"}
+2019-07-27 11:11:01 Upload2Baidu.py[line:55] INFO: 开始上传图片至Baidu,总计剩余 757502 张图片待上传
+2019-07-27 11:11:12 Image2BaiduApi.py[line:120] INFO: {"log_id": 8473812413785428603, "cont_sign": "126687855,2152149755"}
+2019-07-27 11:14:04 Image2BaiduApi.py[line:120] INFO: {"log_id": 6923503867347210011, "cont_sign": "2595209090,3213876191"}
+2019-07-27 11:14:10 Image2BaiduApi.py[line:120] INFO: {"log_id": 4163808074452840443, "cont_sign": "1455577123,1933259617"}
+2019-07-27 11:14:14 Image2BaiduApi.py[line:120] INFO: {"log_id": 418686427357502491, "cont_sign": "3139980411,825625716"}
+2019-07-27 11:14:18 Image2BaiduApi.py[line:120] INFO: {"log_id": 5750681169758891323, "cont_sign": "3373856673,2021260373"}
+2019-07-27 11:14:18 Upload2Baidu.py[line:55] INFO: 开始上传图片至Baidu,总计剩余 757497 张图片待上传
+2019-07-27 11:14:25 Image2BaiduApi.py[line:120] INFO: {"log_id": 2450507913169087803, "cont_sign": "2237573656,870016694"}
+2019-07-27 11:14:31 Image2BaiduApi.py[line:120] INFO: {"log_id": 5943137336528309563, "cont_sign": "870108577,2425622336"}
+2019-07-27 11:14:38 Image2BaiduApi.py[line:120] INFO: {"log_id": 6772070569920993563, "cont_sign": "3352229970,592953871"}
+2019-07-27 11:14:40 Image2BaiduApi.py[line:120] INFO: {"log_id": 6412536172038977339, "cont_sign": "574387962,1456628245"}
+2019-07-27 11:14:43 Image2BaiduApi.py[line:120] INFO: {"log_id": 5018402229376332699, "cont_sign": "1805917648,3994514939"}
+2019-07-27 11:14:43 Upload2Baidu.py[line:55] INFO: 开始上传图片至Baidu,总计剩余 757492 张图片待上传
+2019-07-27 11:14:46 Image2BaiduApi.py[line:120] INFO: {"log_id": 5073043964005563259, "cont_sign": "2733005015,2789690506"}
+2019-07-27 11:14:50 Image2BaiduApi.py[line:120] INFO: {"log_id": 1803377832287600795, "cont_sign": "3978003287,1987849416"}
+2019-07-27 11:14:54 Image2BaiduApi.py[line:120] INFO: {"log_id": 8160896617523532091, "cont_sign": "650043667,2811048988"}
+2019-07-27 11:15:04 Image2BaiduApi.py[line:120] INFO: {"log_id": 2829651649577578683, "cont_sign": "1996695068,1330994967"}
+2019-07-27 11:15:20 Image2BaiduApi.py[line:120] INFO: {"log_id": 2650402929847320443, "cont_sign": "1767686594,3660258570"}
+2019-07-27 11:15:20 Upload2Baidu.py[line:55] INFO: 开始上传图片至Baidu,总计剩余 757487 张图片待上传
+2019-07-27 11:15:26 Image2BaiduApi.py[line:120] INFO: {"log_id": 105743108173505979, "cont_sign": "1076768933,356550668"}
+2019-07-27 11:15:29 Image2BaiduApi.py[line:120] INFO: {"log_id": 6319243062368676635, "cont_sign": "480224469,2239090688"}
+2019-07-27 11:15:35 Image2BaiduApi.py[line:120] INFO: {"log_id": 4127974807573494907, "cont_sign": "734376173,553648525"}
+2019-07-27 11:15:41 Image2BaiduApi.py[line:120] INFO: {"log_id": 829701040698373307, "cont_sign": "1093537874,1053850599"}
+2019-07-27 11:15:46 Image2BaiduApi.py[line:120] INFO: {"log_id": 7302780734977538299, "cont_sign": "2347782114,608132028"}
+2019-07-27 11:15:46 Upload2Baidu.py[line:55] INFO: 开始上传图片至Baidu,总计剩余 757482 张图片待上传
+2019-07-27 11:15:51 Image2BaiduApi.py[line:120] INFO: {"log_id": 1305005298156708763, "cont_sign": "688929720,1754720574"}
+2019-07-27 11:15:54 Image2BaiduApi.py[line:120] INFO: {"log_id": 5574293729793478363, "cont_sign": "1760184769,3650576358"}
+2019-07-27 11:15:58 Image2BaiduApi.py[line:120] INFO: {"log_id": 485624815349580795, "cont_sign": "1107983989,798388716"}
+2019-07-27 11:17:39 Image2BaiduApi.py[line:120] INFO: {"log_id": 2871667205954811419, "cont_sign": "2880016626,3385366011"}
+2019-07-27 11:17:44 Image2BaiduApi.py[line:120] INFO: {"log_id": 4872941513511832571, "cont_sign": "400232806,1806596977"}
+2019-07-27 11:17:44 Upload2Baidu.py[line:55] INFO: 开始上传图片至Baidu,总计剩余 757477 张图片待上传
+2019-07-27 11:17:48 Image2BaiduApi.py[line:120] INFO: {"log_id": 3314031070422033179, "cont_sign": "2771999475,76375451"}
+2019-07-27 11:17:54 Image2BaiduApi.py[line:120] INFO: {"log_id": 6893973336100216635, "cont_sign": "528664364,2276558783"}
+2019-07-27 11:18:00 Image2BaiduApi.py[line:120] INFO: {"log_id": 5311026073002904315, "cont_sign": "4069101728,776444650"}
+2019-07-27 11:18:05 Image2BaiduApi.py[line:120] INFO: {"log_id": 6955610166791028923, "cont_sign": "319609395,365657074"}
+2019-07-27 11:18:35 Image2BaiduApi.py[line:120] INFO: {"log_id": 3192571975822912219, "cont_sign": "3378713645,320147258"}
+2019-07-27 11:18:35 Upload2Baidu.py[line:55] INFO: 开始上传图片至Baidu,总计剩余 757472 张图片待上传
+2019-07-27 11:18:42 Image2BaiduApi.py[line:120] INFO: {"log_id": 411551199849495707, "cont_sign": "3353720413,1932665413"}
+2019-07-27 11:18:46 Image2BaiduApi.py[line:120] INFO: {"log_id": 7005484476084090619, "cont_sign": "1610056712,2291987945"}
+2019-07-27 11:18:52 Image2BaiduApi.py[line:120] INFO: {"log_id": 46007484646562203, "cont_sign": "1302163016,66850921"}
+2019-07-27 11:19:00 Image2BaiduApi.py[line:120] INFO: {"log_id": 2232581142524167579, "cont_sign": "2239003478,2952850073"}
+2019-07-27 11:19:05 Image2BaiduApi.py[line:120] INFO: {"log_id": 5074869773543346715, "cont_sign": "3365890162,1249027814"}
+2019-07-27 11:19:05 Upload2Baidu.py[line:55] INFO: 开始上传图片至Baidu,总计剩余 757467 张图片待上传
+2019-07-27 11:19:09 Image2BaiduApi.py[line:120] INFO: {"log_id": 5539999697068864955, "cont_sign": "753425677,2917470423"}
+2019-07-27 11:19:13 Image2BaiduApi.py[line:120] INFO: {"log_id": 8313175236295557435, "cont_sign": "3806933179,898149336"}
+2019-07-27 11:19:19 Image2BaiduApi.py[line:120] INFO: {"log_id": 7340074783905734683, "cont_sign": "4112957204,1847206228"}
+2019-07-27 11:19:26 Image2BaiduApi.py[line:120] INFO: {"log_id": 8754859990331948315, "cont_sign": "1876229520,149226531"}
+2019-07-27 11:21:05 Image2BaiduApi.py[line:120] INFO: {"log_id": 7841074983428623323, "cont_sign": "2101097285,1829458801"}
+2019-07-27 11:21:05 Upload2Baidu.py[line:55] INFO: 开始上传图片至Baidu,总计剩余 757462 张图片待上传
+2019-07-27 11:21:26 Image2BaiduApi.py[line:120] INFO: {"log_id": 8896574992734775259, "cont_sign": "43670368,3664867984"}
+2019-07-27 11:21:31 Image2BaiduApi.py[line:120] INFO: {"log_id": 271784424024949051, "cont_sign": "2161518371,3077017584"}
+2019-07-27 11:21:36 Image2BaiduApi.py[line:120] INFO: {"log_id": 4094980866683835739, "cont_sign": "2807206678,3172680539"}
+2019-07-27 11:21:45 Image2BaiduApi.py[line:120] INFO: {"log_id": 7668900057685122651, "cont_sign": "1431014887,1841711718"}
+2019-07-27 11:21:47 Image2BaiduApi.py[line:120] INFO: {"log_id": 6498083774121325627, "cont_sign": "3704575086,633463660"}
+2019-07-27 11:21:47 Upload2Baidu.py[line:55] INFO: 开始上传图片至Baidu,总计剩余 757457 张图片待上传
+2019-07-27 11:21:53 Image2BaiduApi.py[line:120] INFO: {"log_id": 5154376167891512027, "cont_sign": "2716876166,2497420214"}
+2019-07-27 11:22:01 Image2BaiduApi.py[line:120] INFO: {"log_id": 439166203483316539, "cont_sign": "3108874359,2583851578"}
+2019-07-27 11:22:04 Image2BaiduApi.py[line:120] INFO: {"log_id": 7142721333173283131, "cont_sign": "658529163,3741062899"}
+2019-07-27 11:22:10 Image2BaiduApi.py[line:120] INFO: {"log_id": 6985343503973918267, "cont_sign": "1562568919,3801880599"}
+2019-07-27 11:25:47 Image2BaiduApi.py[line:120] INFO: {"log_id": 3430874300302863259, "error_code": 282000, "error_msg": "internal error"}
+2019-07-27 11:25:47 Upload2Baidu.py[line:55] INFO: 开始上传图片至Baidu,总计剩余 757452 张图片待上传
+2019-07-27 11:25:51 Image2BaiduApi.py[line:120] INFO: {"log_id": 8565885933139878235, "cont_sign": "774404265,201596219"}
+2019-07-27 11:25:58 Image2BaiduApi.py[line:120] INFO: {"log_id": 5407799131705870491, "cont_sign": "1702723892,1456910822"}
+2019-07-27 11:26:08 Image2BaiduApi.py[line:120] INFO: {"log_id": 184270137942704859, "cont_sign": "3596190450,452828297"}
+2019-07-27 11:26:12 Image2BaiduApi.py[line:120] INFO: {"log_id": 6774211223504872027, "cont_sign": "2875860762,1563577440"}
+2019-07-27 11:26:20 Image2BaiduApi.py[line:120] INFO: {"log_id": 1018909061592394139, "cont_sign": "3087723417,119640805"}
+2019-07-27 11:26:20 Upload2Baidu.py[line:55] INFO: 开始上传图片至Baidu,总计剩余 757447 张图片待上传
+2019-07-27 11:27:12 Image2BaiduApi.py[line:120] INFO: {"log_id": 4498682857808317595, "cont_sign": "2749160801,1597787932"}
+2019-07-27 11:27:27 Image2BaiduApi.py[line:120] INFO: {"log_id": 7794106978389411451, "cont_sign": "3737106816,2849916293"}
+2019-07-27 11:28:15 Image2BaiduApi.py[line:120] INFO: {"log_id": 1303941905463425883, "cont_sign": "355285329,3588353834"}
+2019-07-27 11:28:21 Image2BaiduApi.py[line:120] INFO: {"log_id": 2131676543309514555, "cont_sign": "1719573634,1725944614"}
+2019-07-27 11:28:25 Image2BaiduApi.py[line:120] INFO: {"log_id": 6371983610067870427, "cont_sign": "1235536869,3102768338"}
+2019-07-27 11:28:25 Upload2Baidu.py[line:55] INFO: 开始上传图片至Baidu,总计剩余 757442 张图片待上传
+2019-07-27 11:28:44 Image2BaiduApi.py[line:120] INFO: {"log_id": 8570740526167699771, "cont_sign": "3624359943,43916232"}
+2019-07-27 11:28:48 Image2BaiduApi.py[line:120] INFO: {"log_id": 7075517816376357435, "cont_sign": "2974747249,1252882646"}
+2019-07-27 11:28:54 Image2BaiduApi.py[line:120] INFO: {"log_id": 5446167566431047803, "cont_sign": "41646129,2858366041"}
+2019-07-27 11:28:57 Image2BaiduApi.py[line:120] INFO: {"log_id": 176414370295693115, "cont_sign": "562025606,1577471319"}
+2019-07-27 11:29:30 Image2BaiduApi.py[line:120] INFO: {"log_id": 4931380293958925627, "cont_sign": "648884432,245476143"}
+2019-07-27 11:29:30 Upload2Baidu.py[line:55] INFO: 开始上传图片至Baidu,总计剩余 757437 张图片待上传
+2019-07-27 11:29:34 Image2BaiduApi.py[line:120] INFO: {"log_id": 6594439345674385499, "cont_sign": "495045657,1874726955"}
+2019-07-27 11:30:03 Image2BaiduApi.py[line:120] INFO: {"log_id": 4480084661768624283, "cont_sign": "1351529724,3297571366"}
+2019-07-27 11:30:07 Image2BaiduApi.py[line:120] INFO: {"log_id": 6310800920769121211, "cont_sign": "3312189554,2794057085"}
+2019-07-27 11:30:15 Image2BaiduApi.py[line:120] INFO: {"log_id": 12579222337352219, "cont_sign": "658838345,313775745"}
+2019-07-27 11:30:21 Image2BaiduApi.py[line:120] INFO: {"log_id": 3915679058507988827, "cont_sign": "2515982150,4109927673"}
+2019-07-27 11:30:21 Upload2Baidu.py[line:55] INFO: 开始上传图片至Baidu,总计剩余 757432 张图片待上传
+2019-07-27 11:30:24 Image2BaiduApi.py[line:120] INFO: {"log_id": 6610889480395458267, "cont_sign": "4254667430,2812047045"}
+2019-07-27 11:30:54 Image2BaiduApi.py[line:120] INFO: {"log_id": 4734086460872921019, "cont_sign": "2591043167,3827501335"}
+2019-07-27 11:30:58 Image2BaiduApi.py[line:120] INFO: {"log_id": 2178865509044559579, "cont_sign": "1039512897,39386207"}
+2019-07-27 11:31:03 Image2BaiduApi.py[line:120] INFO: {"log_id": 368780211327202683, "cont_sign": "3076246635,743087863"}
+2019-07-27 11:31:17 Image2BaiduApi.py[line:120] INFO: {"log_id": 6604692043094412155, "cont_sign": "2150886987,4127477208"}
+2019-07-27 11:31:17 Upload2Baidu.py[line:55] INFO: 开始上传图片至Baidu,总计剩余 757427 张图片待上传
+2019-07-27 11:33:26 Image2BaiduApi.py[line:120] INFO: {"log_id": 7063266525701134363, "error_code": 216202, "error_msg": "image size error"}
+2019-07-27 11:33:29 Image2BaiduApi.py[line:120] INFO: {"log_id": 6873083221323253659, "cont_sign": "1948916860,31334326"}
+2019-07-27 11:33:32 Image2BaiduApi.py[line:120] INFO: {"log_id": 2340198875490072475, "cont_sign": "2900729363,4065655889"}
+2019-07-27 11:33:37 Image2BaiduApi.py[line:120] INFO: {"log_id": 2487667439478819003, "cont_sign": "147909180,3109654062"}
+2019-07-27 11:33:41 Image2BaiduApi.py[line:120] INFO: {"log_id": 80122439851571579, "cont_sign": "4168099466,132167223"}
+2019-07-27 11:33:41 Upload2Baidu.py[line:55] INFO: 开始上传图片至Baidu,总计剩余 757422 张图片待上传
+2019-07-27 11:36:05 Image2BaiduApi.py[line:120] INFO: {"log_id": 1761063940701207099, "error_code": 216681, "cont_sign": "2876626474,26280185", "error_msg": "item has existed"}
+2019-07-27 11:36:13 Image2BaiduApi.py[line:120] INFO: {"log_id": 6588967244048758555, "cont_sign": "3637918872,3746685563"}
+2019-07-27 11:36:19 Image2BaiduApi.py[line:120] INFO: {"log_id": 2333372649135166491, "cont_sign": "1122218154,2397384421"}
+2019-07-27 11:36:22 Image2BaiduApi.py[line:120] INFO: {"log_id": 6799576779696832571, "cont_sign": "368191416,198301690"}
+2019-07-27 11:36:26 Image2BaiduApi.py[line:120] INFO: {"log_id": 839544144496327707, "cont_sign": "2276156006,4007116922"}
+2019-07-27 11:36:26 Upload2Baidu.py[line:55] INFO: 开始上传图片至Baidu,总计剩余 757417 张图片待上传
+2019-07-27 11:36:28 Image2BaiduApi.py[line:120] INFO: {"log_id": 5325912609791210555, "cont_sign": "2749177598,2775132405"}
+2019-07-27 11:36:33 Image2BaiduApi.py[line:120] INFO: {"log_id": 2983235841261518107, "cont_sign": "2326638126,1954560210"}
+2019-07-27 11:36:37 Image2BaiduApi.py[line:120] INFO: {"log_id": 1815819585972169435, "error_code": 216681, "cont_sign": "3596190450,452828297", "error_msg": "item has existed"}
+2019-07-27 11:36:41 Image2BaiduApi.py[line:120] INFO: {"log_id": 8305118163043435547, "cont_sign": "1503420459,261763710"}
+2019-07-27 11:36:48 Image2BaiduApi.py[line:120] INFO: {"log_id": 1089293793741729019, "cont_sign": "798774285,2118895989"}
+2019-07-27 11:36:48 Upload2Baidu.py[line:55] INFO: 开始上传图片至Baidu,总计剩余 757412 张图片待上传
+2019-07-27 11:36:51 Image2BaiduApi.py[line:120] INFO: {"log_id": 2627621797486964027, "cont_sign": "2203647050,3541116199"}
+2019-07-27 11:36:55 Image2BaiduApi.py[line:120] INFO: {"log_id": 7263856992210521755, "cont_sign": "4218991101,3380856092"}
+2019-07-27 11:36:59 Image2BaiduApi.py[line:120] INFO: {"log_id": 8665226812807351035, "cont_sign": "947902035,587045976"}
+2019-07-27 11:37:03 Image2BaiduApi.py[line:120] INFO: {"log_id": 5062603532856933147, "cont_sign": "1142207307,576446555"}
+2019-07-27 11:37:08 Image2BaiduApi.py[line:120] INFO: {"log_id": 1118269789055325147, "cont_sign": "2873683356,2600986285"}
+2019-07-27 11:37:08 Upload2Baidu.py[line:55] INFO: 开始上传图片至Baidu,总计剩余 757407 张图片待上传
+2019-07-27 11:37:12 Image2BaiduApi.py[line:120] INFO: {"log_id": 7781616493751214043, "cont_sign": "2228379938,3908795403"}
+2019-07-27 11:37:15 Image2BaiduApi.py[line:120] INFO: {"log_id": 8561280469695750459, "cont_sign": "1601294829,629158274"}
+2019-07-27 11:37:19 Image2BaiduApi.py[line:120] INFO: {"log_id": 1996276191134450523, "cont_sign": "2097394016,3709009352"}
+2019-07-27 11:37:25 Image2BaiduApi.py[line:120] INFO: {"log_id": 9151951917481594267, "cont_sign": "901626060,3219363956"}
+2019-07-27 11:37:29 Image2BaiduApi.py[line:120] INFO: {"log_id": 7576510841524111387, "cont_sign": "1681091326,803677921"}
+2019-07-27 11:37:29 Upload2Baidu.py[line:55] INFO: 开始上传图片至Baidu,总计剩余 757402 张图片待上传
+2019-07-27 11:37:37 Image2BaiduApi.py[line:120] INFO: {"log_id": 3908617738436841595, "error_code": 216202, "error_msg": "image size error"}
+2019-07-27 11:37:41 Image2BaiduApi.py[line:120] INFO: {"log_id": 7207787101566767611, "cont_sign": "2922910360,3455000386"}
+2019-07-27 11:37:44 Image2BaiduApi.py[line:120] INFO: {"log_id": 3917514365408309499, "cont_sign": "3969068679,490807313"}
+2019-07-27 11:37:49 Image2BaiduApi.py[line:120] INFO: {"log_id": 2886320181396927803, "cont_sign": "607197207,3824108227"}
+2019-07-27 11:37:54 Image2BaiduApi.py[line:120] INFO: {"log_id": 3498959855152411483, "cont_sign": "2222024812,520183530"}
+2019-07-27 11:37:54 Upload2Baidu.py[line:55] INFO: 开始上传图片至Baidu,总计剩余 757397 张图片待上传
+2019-07-27 11:37:58 Image2BaiduApi.py[line:120] INFO: {"log_id": 6784433278178983611, "cont_sign": "3347746695,1393028035"}
+2019-07-27 11:38:00 Image2BaiduApi.py[line:120] INFO: {"log_id": 5705101341158527451, "cont_sign": "3306517040,3809876704"}
+2019-07-27 11:38:03 Image2BaiduApi.py[line:120] INFO: {"log_id": 7092785767961940251, "cont_sign": "2484789456,1402167126"}
+2019-07-27 11:38:07 Image2BaiduApi.py[line:120] INFO: {"log_id": 2863157077249009051, "cont_sign": "3016847020,1696123020"}
+2019-07-27 11:38:09 Image2BaiduApi.py[line:120] INFO: {"log_id": 7537361191981812667, "cont_sign": "4031970841,4077389129"}
+2019-07-27 11:38:09 Upload2Baidu.py[line:55] INFO: 开始上传图片至Baidu,总计剩余 757392 张图片待上传
+2019-07-27 11:38:13 Image2BaiduApi.py[line:120] INFO: {"log_id": 2324954806831537755, "cont_sign": "900692328,1839201008"}
+2019-07-27 11:38:17 Image2BaiduApi.py[line:120] INFO: {"log_id": 7931299533411146203, "cont_sign": "1766557899,3145581541"}
+2019-07-27 11:38:20 Image2BaiduApi.py[line:120] INFO: {"log_id": 7228596830433735803, "cont_sign": "483400811,3540602778"}
+2019-07-27 11:38:23 Image2BaiduApi.py[line:120] INFO: {"log_id": 7758536610673604923, "cont_sign": "101447330,827570375"}
+2019-07-27 11:38:27 Image2BaiduApi.py[line:120] INFO: {"log_id": 826306365172171227, "cont_sign": "2667240139,269874590"}
+2019-07-27 11:38:27 Upload2Baidu.py[line:55] INFO: 开始上传图片至Baidu,总计剩余 757387 张图片待上传
+2019-07-27 11:38:37 Image2BaiduApi.py[line:120] INFO: {"log_id": 7969656019112802299, "cont_sign": "1191328134,4177938614"}
+2019-07-27 11:38:40 Image2BaiduApi.py[line:120] INFO: {"log_id": 4563137322346633307, "cont_sign": "2573724482,368629236"}
+2019-07-27 11:38:44 Image2BaiduApi.py[line:120] INFO: {"log_id": 8086340170007772091, "cont_sign": "2007461187,3306897781"}
+2019-07-27 11:38:46 Image2BaiduApi.py[line:120] INFO: {"log_id": 5516397641243407803, "cont_sign": "2366809370,1303827277"}
+2019-07-27 11:38:49 Image2BaiduApi.py[line:120] INFO: {"log_id": 5734119530186251643, "cont_sign": "2043093245,1289366830"}
+2019-07-27 11:38:49 Upload2Baidu.py[line:55] INFO: 开始上传图片至Baidu,总计剩余 757382 张图片待上传
+2019-07-27 11:38:52 Image2BaiduApi.py[line:120] INFO: {"log_id": 500476216580751803, "cont_sign": "210797173,3607073012"}
+2019-07-27 11:38:55 Image2BaiduApi.py[line:120] INFO: {"log_id": 2622515235988299483, "cont_sign": "1344901965,3333730046"}
+2019-07-27 11:38:59 Image2BaiduApi.py[line:120] INFO: {"log_id": 8902543209657335547, "cont_sign": "3192894868,205457201"}
+2019-07-27 11:39:02 Image2BaiduApi.py[line:120] INFO: {"log_id": 6057339827639798619, "cont_sign": "80556440,1524167693"}
+2019-07-27 11:39:05 Image2BaiduApi.py[line:120] INFO: {"log_id": 3793379547611683323, "cont_sign": "3770743326,1406782723"}
+2019-07-27 11:39:05 Upload2Baidu.py[line:55] INFO: 开始上传图片至Baidu,总计剩余 757377 张图片待上传
+2019-07-27 11:39:14 Image2BaiduApi.py[line:120] INFO: {"log_id": 1258903623083555099, "cont_sign": "2859344424,1675920927"}
+2019-07-27 11:39:18 Image2BaiduApi.py[line:120] INFO: {"log_id": 2552851118949701307, "cont_sign": "4145575944,780528259"}
+2019-07-27 11:39:21 Image2BaiduApi.py[line:120] INFO: {"log_id": 2842951760430377563, "cont_sign": "3846795120,2724400505"}
+2019-07-27 11:39:26 Image2BaiduApi.py[line:120] INFO: {"log_id": 3832922396927093211, "cont_sign": "802898786,3589218563"}
+2019-07-27 11:39:32 Image2BaiduApi.py[line:120] INFO: {"log_id": 288534105045649083, "cont_sign": "524650554,2187770108"}
+2019-07-27 11:39:32 Upload2Baidu.py[line:55] INFO: 开始上传图片至Baidu,总计剩余 757372 张图片待上传
+2019-07-27 11:39:35 Image2BaiduApi.py[line:120] INFO: {"log_id": 3538257920509278523, "cont_sign": "1270784821,3133061316"}
+2019-07-27 11:39:38 Image2BaiduApi.py[line:120] INFO: {"log_id": 7526335533082610843, "cont_sign": "3431640720,3077858515"}
+2019-07-27 11:39:41 Image2BaiduApi.py[line:120] INFO: {"log_id": 5908315187106171739, "cont_sign": "200903038,4175388656"}
+2019-07-27 11:39:44 Image2BaiduApi.py[line:120] INFO: {"log_id": 6602884660420554139, "cont_sign": "1169480866,3577213819"}
+2019-07-27 11:39:48 Image2BaiduApi.py[line:120] INFO: {"log_id": 2751766743844608571, "cont_sign": "2902979118,1160741740"}
+2019-07-27 11:39:48 Upload2Baidu.py[line:55] INFO: 开始上传图片至Baidu,总计剩余 757367 张图片待上传
+2019-07-27 11:39:56 Image2BaiduApi.py[line:120] INFO: {"log_id": 4123181247754938907, "cont_sign": "683046937,4230981416"}
+2019-07-27 11:40:03 Image2BaiduApi.py[line:120] INFO: {"log_id": 4349679868212971739, "cont_sign": "1076302317,69304515"}
+2019-07-27 11:40:09 Image2BaiduApi.py[line:120] INFO: {"log_id": 4682596141954987803, "cont_sign": "3008550917,3618879919"}
+2019-07-27 11:40:11 Image2BaiduApi.py[line:120] INFO: {"log_id": 6741783892576690779, "cont_sign": "2566309743,1881870356"}
+2019-07-27 11:40:15 Image2BaiduApi.py[line:120] INFO: {"log_id": 2667212832191910715, "cont_sign": "2281709460,178998434"}
+2019-07-27 11:40:15 Upload2Baidu.py[line:55] INFO: 开始上传图片至Baidu,总计剩余 757362 张图片待上传
+2019-07-27 11:40:19 Image2BaiduApi.py[line:120] INFO: {"log_id": 1616792065214207803, "cont_sign": "1607503346,4005546594"}
+2019-07-27 11:40:22 Image2BaiduApi.py[line:120] INFO: {"log_id": 4447398724654740027, "cont_sign": "2545893059,3271697715"}
+2019-07-27 11:40:28 Image2BaiduApi.py[line:120] INFO: {"log_id": 5216856730323803611, "cont_sign": "1938004662,2874536945"}
+2019-07-27 11:40:36 Image2BaiduApi.py[line:120] INFO: {"log_id": 7071240299774597275, "error_code": 216202, "error_msg": "image size error"}
+2019-07-27 11:40:38 Image2BaiduApi.py[line:120] INFO: {"log_id": 9050989203695075163, "cont_sign": "2904102146,1194792575"}
+2019-07-27 11:40:38 Upload2Baidu.py[line:55] INFO: 开始上传图片至Baidu,总计剩余 757357 张图片待上传
+2019-07-27 11:40:42 Image2BaiduApi.py[line:120] INFO: {"log_id": 5350219902150832731, "cont_sign": "865231045,3442394101"}
+2019-07-27 11:40:45 Image2BaiduApi.py[line:120] INFO: {"log_id": 5913711323453123003, "cont_sign": "1560383419,4179472433"}
+2019-07-27 11:40:49 Image2BaiduApi.py[line:120] INFO: {"log_id": 4553822899076684635, "cont_sign": "3248043974,1155739892"}
+2019-07-27 11:40:52 Image2BaiduApi.py[line:120] INFO: {"log_id": 6374480608504076347, "cont_sign": "3188990525,631944016"}
+2019-07-27 11:40:57 Image2BaiduApi.py[line:120] INFO: {"log_id": 7805931676804310747, "cont_sign": "2852941732,453111368"}
+2019-07-27 11:40:57 Upload2Baidu.py[line:55] INFO: 开始上传图片至Baidu,总计剩余 757352 张图片待上传
+2019-07-27 11:41:00 Image2BaiduApi.py[line:120] INFO: {"log_id": 4830081419803891675, "cont_sign": "4262311140,925254895"}
+2019-07-27 11:41:05 Image2BaiduApi.py[line:120] INFO: {"log_id": 4856939634661761019, "cont_sign": "2774564178,2341905099"}
+2019-07-27 11:41:10 Image2BaiduApi.py[line:120] INFO: {"log_id": 81066090191788187, "cont_sign": "2029540046,40351473"}
+2019-07-27 11:41:13 Image2BaiduApi.py[line:120] INFO: {"log_id": 6805428055525693179, "cont_sign": "2795642504,1827727331"}
+2019-07-27 11:41:16 Image2BaiduApi.py[line:120] INFO: {"log_id": 6674651648703537595, "cont_sign": "2677661836,1948867635"}
+2019-07-27 11:41:16 Upload2Baidu.py[line:55] INFO: 开始上传图片至Baidu,总计剩余 757347 张图片待上传
+2019-07-27 11:41:20 Image2BaiduApi.py[line:120] INFO: {"log_id": 3337188692266544091, "cont_sign": "2613565908,263556937"}
+2019-07-27 11:41:24 Image2BaiduApi.py[line:120] INFO: {"log_id": 4480501462623039323, "cont_sign": "1660983572,2214916508"}
+2019-07-27 11:41:28 Image2BaiduApi.py[line:120] INFO: {"log_id": 3340524225819201179, "cont_sign": "4027159012,1459013132"}
+2019-07-27 11:41:31 Image2BaiduApi.py[line:120] INFO: {"log_id": 2884287714141821787, "cont_sign": "2909891947,146610650"}
+2019-07-27 11:41:33 Image2BaiduApi.py[line:120] INFO: {"log_id": 817890757678154747, "cont_sign": "4092605363,3697050787"}
+2019-07-27 11:41:33 Upload2Baidu.py[line:55] INFO: 开始上传图片至Baidu,总计剩余 757342 张图片待上传
+2019-07-27 11:41:36 Image2BaiduApi.py[line:120] INFO: {"log_id": 7222438664997394555, "cont_sign": "2752886358,1645392778"}
+2019-07-27 11:41:40 Image2BaiduApi.py[line:120] INFO: {"log_id": 6814443486303032987, "cont_sign": "1901398620,3942326792"}
+2019-07-27 11:41:43 Image2BaiduApi.py[line:120] INFO: {"log_id": 3211697624747823355, "cont_sign": "1485199093,2990983303"}
+2019-07-27 11:41:46 Image2BaiduApi.py[line:120] INFO: {"log_id": 4795810133735128731, "cont_sign": "2541871660,469493759"}
+2019-07-27 11:41:51 Image2BaiduApi.py[line:120] INFO: {"log_id": 3450631136949207867, "cont_sign": "3154376266,3869932399"}
+2019-07-27 11:41:51 Upload2Baidu.py[line:55] INFO: 开始上传图片至Baidu,总计剩余 757337 张图片待上传
+2019-07-27 11:41:58 Image2BaiduApi.py[line:120] INFO: {"log_id": 7347730967590488635, "cont_sign": "2349673848,1731406366"}
+2019-07-27 11:42:02 Image2BaiduApi.py[line:120] INFO: {"log_id": 5995956598363396443, "cont_sign": "2055728075,4175677226"}
+2019-07-27 11:42:09 Image2BaiduApi.py[line:120] INFO: {"log_id": 3449669560891451899, "cont_sign": "2708429534,1720720984"}
+2019-07-27 11:42:14 Image2BaiduApi.py[line:120] INFO: {"log_id": 4128559861674968379, "cont_sign": "3925429802,650538147"}
+2019-07-27 11:42:20 Image2BaiduApi.py[line:120] INFO: {"log_id": 5922457450743982075, "cont_sign": "2677820757,1327954865"}
+2019-07-27 11:42:20 Upload2Baidu.py[line:55] INFO: 开始上传图片至Baidu,总计剩余 757332 张图片待上传
+2019-07-27 11:42:25 Image2BaiduApi.py[line:120] INFO: {"log_id": 7507554324064923163, "cont_sign": "1467400436,3031297198"}
+2019-07-27 11:42:34 Image2BaiduApi.py[line:120] INFO: {"log_id": 534741541670435547, "cont_sign": "2094733574,732471516"}
+2019-07-27 11:42:38 Image2BaiduApi.py[line:120] INFO: {"log_id": 5791074790088718395, "cont_sign": "3097809892,3321700958"}
+2019-07-27 11:42:42 Image2BaiduApi.py[line:120] INFO: {"log_id": 7506061846458647963, "cont_sign": "1394516281,1661688599"}
+2019-07-27 11:42:47 Image2BaiduApi.py[line:120] INFO: {"log_id": 6558891507257941211, "cont_sign": "4059098233,1996255435"}
+2019-07-27 11:42:47 Upload2Baidu.py[line:55] INFO: 开始上传图片至Baidu,总计剩余 757327 张图片待上传
+2019-07-27 11:42:52 Image2BaiduApi.py[line:120] INFO: {"log_id": 6482561583800813499, "cont_sign": "2376985941,2169599076"}
+2019-07-27 11:42:56 Image2BaiduApi.py[line:120] INFO: {"log_id": 334709999541016507, "cont_sign": "3741919276,1524297763"}
+2019-07-27 11:42:58 Image2BaiduApi.py[line:120] INFO: {"log_id": 1324473869503282651, "cont_sign": "2674730554,1967450264"}
+2019-07-27 11:43:03 Image2BaiduApi.py[line:120] INFO: {"log_id": 118740750486622587, "cont_sign": "210680320,31062098"}
+2019-07-27 11:43:13 Image2BaiduApi.py[line:120] INFO: {"log_id": 507253797299129307, "cont_sign": "268307447,400573464"}
+2019-07-27 11:43:13 Upload2Baidu.py[line:55] INFO: 开始上传图片至Baidu,总计剩余 757322 张图片待上传
+2019-07-27 11:43:16 Image2BaiduApi.py[line:120] INFO: {"log_id": 5596561839486877755, "cont_sign": "3457217341,1589319939"}
+2019-07-27 11:43:19 Image2BaiduApi.py[line:120] INFO: {"log_id": 7435941321441752411, "cont_sign": "3414517959,2992385671"}
+2019-07-27 11:43:21 Image2BaiduApi.py[line:120] INFO: {"log_id": 110646256104140827, "cont_sign": "2889796025,273270342"}
+2019-07-27 11:43:31 Image2BaiduApi.py[line:120] INFO: {"log_id": 4444358635086602235, "cont_sign": "1849177299,4132134532"}
+2019-07-27 11:43:33 Image2BaiduApi.py[line:120] INFO: {"log_id": 8254526138787521467, "cont_sign": "3196503955,2369130247"}
+2019-07-27 11:43:33 Upload2Baidu.py[line:55] INFO: 开始上传图片至Baidu,总计剩余 757317 张图片待上传
+2019-07-27 11:43:36 Image2BaiduApi.py[line:120] INFO: {"log_id": 7737296484497714203, "error_code": 216681, "cont_sign": "539330809,3311172623", "error_msg": "item has existed"}
+2019-07-27 11:43:40 Image2BaiduApi.py[line:120] INFO: {"log_id": 7469511642661542299, "cont_sign": "288116885,3440309000"}
+2019-07-27 11:43:44 Image2BaiduApi.py[line:120] INFO: {"log_id": 8301979291314426235, "cont_sign": "2142251670,3722960582"}
+2019-07-27 11:43:47 Image2BaiduApi.py[line:120] INFO: {"log_id": 9045761419218020027, "cont_sign": "3322353926,833384226"}
+2019-07-27 11:43:51 Image2BaiduApi.py[line:120] INFO: {"log_id": 5408062438595668955, "cont_sign": "4154016862,3008823292"}
+2019-07-27 11:43:51 Upload2Baidu.py[line:55] INFO: 开始上传图片至Baidu,总计剩余 757312 张图片待上传
+2019-07-27 11:43:54 Image2BaiduApi.py[line:120] INFO: {"log_id": 4738871020495233467, "cont_sign": "365188363,1516983893"}
+2019-07-27 11:43:59 Image2BaiduApi.py[line:120] INFO: {"log_id": 5243968593302150779, "cont_sign": "4071970734,525649210"}
+2019-07-27 11:44:01 Image2BaiduApi.py[line:120] INFO: {"log_id": 962300660036961851, "error_code": 216203, "error_msg": "input image cannot handle"}
+2019-07-27 11:44:04 Image2BaiduApi.py[line:120] INFO: {"log_id": 8183991870947572859, "cont_sign": "2508624093,4067531406"}
+2019-07-27 11:44:07 Image2BaiduApi.py[line:120] INFO: {"log_id": 1282007146493216827, "cont_sign": "602680803,2518729913"}
+2019-07-27 11:44:07 Upload2Baidu.py[line:55] INFO: 开始上传图片至Baidu,总计剩余 757307 张图片待上传
+2019-07-27 11:44:11 Image2BaiduApi.py[line:120] INFO: {"log_id": 1408725614782991003, "cont_sign": "2233728220,1068587352"}
+2019-07-27 11:44:15 Image2BaiduApi.py[line:120] INFO: {"log_id": 3485231200137116411, "cont_sign": "2953110490,277850023"}
+2019-07-27 11:44:18 Image2BaiduApi.py[line:120] INFO: {"log_id": 8700019502833157531, "cont_sign": "2751054213,1068162358"}
+2019-07-27 11:44:23 Image2BaiduApi.py[line:120] INFO: {"log_id": 8387343675995901083, "cont_sign": "2516677902,809815359"}
+2019-07-27 11:44:26 Image2BaiduApi.py[line:120] INFO: {"log_id": 3719958081254704123, "cont_sign": "475468066,4140636239"}
+2019-07-27 11:44:26 Upload2Baidu.py[line:55] INFO: 开始上传图片至Baidu,总计剩余 757302 张图片待上传
+2019-07-27 11:44:31 Image2BaiduApi.py[line:120] INFO: {"log_id": 3114648646222707099, "cont_sign": "1280357581,2204507910"}
+2019-07-27 11:44:36 Image2BaiduApi.py[line:120] INFO: {"log_id": 1234412170191606843, "cont_sign": "2616005221,330871980"}
+2019-07-27 11:44:42 Image2BaiduApi.py[line:120] INFO: {"log_id": 4082038333764398043, "cont_sign": "1166774292,1661508366"}
+2019-07-27 11:44:46 Image2BaiduApi.py[line:120] INFO: {"log_id": 1525156804234419067, "cont_sign": "3323844544,2673669671"}
+2019-07-27 11:44:48 Image2BaiduApi.py[line:120] INFO: {"log_id": 5057700219722722139, "error_code": 216201, "error_msg": "image format error"}
+2019-07-27 11:44:48 Upload2Baidu.py[line:55] INFO: 开始上传图片至Baidu,总计剩余 757297 张图片待上传
+2019-07-27 11:44:51 Image2BaiduApi.py[line:120] INFO: {"log_id": 5102864895750955995, "cont_sign": "4064040813,2839563975"}
+2019-07-27 11:44:55 Image2BaiduApi.py[line:120] INFO: {"log_id": 579675646661789435, "cont_sign": "2555466815,1497778559"}
+2019-07-27 11:45:01 Image2BaiduApi.py[line:120] INFO: {"log_id": 7283987781410754171, "cont_sign": "2627177635,549985039"}
+2019-07-27 11:45:04 Image2BaiduApi.py[line:120] INFO: {"log_id": 545657303323825531, "cont_sign": "2274988983,3122295410"}
+2019-07-27 11:45:07 Image2BaiduApi.py[line:120] INFO: {"log_id": 3001547176595685083, "cont_sign": "1477680717,411087307"}
+2019-07-27 11:45:07 Upload2Baidu.py[line:55] INFO: 开始上传图片至Baidu,总计剩余 757292 张图片待上传
+2019-07-27 11:45:10 Image2BaiduApi.py[line:120] INFO: {"log_id": 7735887884187470907, "cont_sign": "139268076,2739842367"}
+2019-07-27 11:45:14 Image2BaiduApi.py[line:120] INFO: {"log_id": 5457726822813723003, "cont_sign": "3089761883,3420258960"}
+2019-07-27 11:45:16 Image2BaiduApi.py[line:120] INFO: {"log_id": 2886231172188455419, "cont_sign": "2703774674,3248581007"}
+2019-07-27 11:45:20 Image2BaiduApi.py[line:120] INFO: {"log_id": 3904049121866944411, "cont_sign": "2534662412,240557386"}
+2019-07-27 11:45:22 Image2BaiduApi.py[line:120] INFO: {"log_id": 1688509359671251355, "error_code": 216681, "cont_sign": "182793484,817504459", "error_msg": "item has existed"}
+2019-07-27 11:45:22 Upload2Baidu.py[line:55] INFO: 开始上传图片至Baidu,总计剩余 757287 张图片待上传
+2019-07-27 11:45:29 Image2BaiduApi.py[line:120] INFO: {"log_id": 8480630402646019131, "cont_sign": "993889606,859273823"}
+2019-07-27 11:45:33 Image2BaiduApi.py[line:120] INFO: {"log_id": 1940315087871056731, "cont_sign": "3512793470,592300655"}
+2019-07-27 11:45:39 Image2BaiduApi.py[line:120] INFO: {"log_id": 4615113054046101019, "cont_sign": "3220218618,436566645"}
+2019-07-27 11:45:43 Image2BaiduApi.py[line:120] INFO: {"log_id": 1385453104944411515, "cont_sign": "249509631,892510936"}
+2019-07-27 11:45:46 Image2BaiduApi.py[line:120] INFO: {"log_id": 344761375032925979, "cont_sign": "1997406076,949737087"}
+2019-07-27 11:45:46 Upload2Baidu.py[line:55] INFO: 开始上传图片至Baidu,总计剩余 757282 张图片待上传
+2019-07-27 11:45:50 Image2BaiduApi.py[line:120] INFO: {"log_id": 4337539468189399707, "cont_sign": "3773360468,2891819085"}
+2019-07-27 11:45:59 Image2BaiduApi.py[line:120] INFO: {"log_id": 5157676253137412091, "cont_sign": "1452699571,3682868424"}
+2019-07-27 11:46:05 Image2BaiduApi.py[line:120] INFO: {"log_id": 1495622927705790555, "cont_sign": "1054853275,2259613989"}
+2019-07-27 11:46:09 Image2BaiduApi.py[line:120] INFO: {"log_id": 8109341505192518779, "cont_sign": "1036235662,1379267690"}
+2019-07-27 11:46:13 Image2BaiduApi.py[line:120] INFO: {"log_id": 560136604111975931, "cont_sign": "2876502471,1882049425"}
+2019-07-27 11:46:13 Upload2Baidu.py[line:55] INFO: 开始上传图片至Baidu,总计剩余 757277 张图片待上传
+2019-07-27 11:46:17 Image2BaiduApi.py[line:120] INFO: {"log_id": 4640046921143523707, "cont_sign": "3977271104,2822756536"}
+2019-07-27 11:46:21 Image2BaiduApi.py[line:120] INFO: {"log_id": 3744053642601262587, "cont_sign": "2598495631,2321596509"}
+2019-07-27 11:46:25 Image2BaiduApi.py[line:120] INFO: {"log_id": 5988580988454196475, "cont_sign": "740198011,3721006152"}
+2019-07-27 11:46:32 Image2BaiduApi.py[line:120] INFO: {"log_id": 1170591978028430395, "cont_sign": "3390094217,3607228295"}
+2019-07-27 11:46:40 Image2BaiduApi.py[line:120] INFO: {"log_id": 7453470491579745915, "cont_sign": "2980478088,46335693"}
+2019-07-27 11:46:40 Upload2Baidu.py[line:55] INFO: 开始上传图片至Baidu,总计剩余 757272 张图片待上传
+2019-07-27 11:46:43 Image2BaiduApi.py[line:120] INFO: {"log_id": 7034282978151527099, "cont_sign": "120953133,1250845372"}
+2019-07-27 11:46:47 Image2BaiduApi.py[line:120] INFO: {"log_id": 8407602161928820411, "cont_sign": "307267918,2078784746"}
+2019-07-27 11:46:54 Image2BaiduApi.py[line:120] INFO: {"log_id": 6690667467635602139, "cont_sign": "578146338,348205068"}
+2019-07-27 11:46:58 Image2BaiduApi.py[line:120] INFO: {"log_id": 7722650302059540379, "cont_sign": "1817728152,2168119117"}
+2019-07-27 11:47:08 Image2BaiduApi.py[line:120] INFO: {"log_id": 16791094172414299, "cont_sign": "3863073900,3292192187"}
+2019-07-27 11:47:08 Upload2Baidu.py[line:55] INFO: 开始上传图片至Baidu,总计剩余 757267 张图片待上传
+2019-07-27 11:47:11 Image2BaiduApi.py[line:120] INFO: {"log_id": 4151312699810072219, "cont_sign": "1129438027,1617972024"}
+2019-07-27 11:47:16 Image2BaiduApi.py[line:120] INFO: {"log_id": 3630971415154446875, "cont_sign": "305387851,69936182"}
+2019-07-27 11:47:18 Image2BaiduApi.py[line:120] INFO: {"log_id": 7491004797438445979, "cont_sign": "2126985616,2790676480"}
+2019-07-27 11:47:23 Image2BaiduApi.py[line:120] INFO: {"log_id": 1454252936207540955, "cont_sign": "4147417367,3335190052"}
+2019-07-27 11:47:26 Image2BaiduApi.py[line:120] INFO: {"log_id": 2949096672947657563, "cont_sign": "3837910965,4194271300"}
+2019-07-27 11:47:26 Upload2Baidu.py[line:55] INFO: 开始上传图片至Baidu,总计剩余 757262 张图片待上传
+2019-07-27 11:47:29 Image2BaiduApi.py[line:120] INFO: {"log_id": 2715161717811344411, "cont_sign": "3525555805,2739994135"}
+2019-07-27 11:47:33 Image2BaiduApi.py[line:120] INFO: {"log_id": 6298791967100301915, "cont_sign": "999949034,891940350"}
+2019-07-27 11:47:36 Image2BaiduApi.py[line:120] INFO: {"log_id": 3430887696661692827, "cont_sign": "2429680958,2909782584"}
+2019-07-27 11:47:40 Image2BaiduApi.py[line:120] INFO: {"log_id": 6732630314964649723, "cont_sign": "760935516,685795463"}
+2019-07-27 11:47:43 Image2BaiduApi.py[line:120] INFO: {"log_id": 4962939383586332795, "cont_sign": "2020397885,636254763"}
+2019-07-27 11:47:43 Upload2Baidu.py[line:55] INFO: 开始上传图片至Baidu,总计剩余 757257 张图片待上传
+2019-07-27 11:47:51 Image2BaiduApi.py[line:120] INFO: {"log_id": 3724180066368238043, "cont_sign": "89816390,2170601908"}
+2019-07-27 11:47:54 Image2BaiduApi.py[line:120] INFO: {"log_id": 2740703642238432283, "cont_sign": "1517604075,2300295448"}
+2019-07-27 11:47:58 Image2BaiduApi.py[line:120] INFO: {"log_id": 344594435036397243, "cont_sign": "1681504399,2158099013"}
+2019-07-27 11:48:02 Image2BaiduApi.py[line:120] INFO: {"log_id": 5539545586828232251, "cont_sign": "3204890985,1166271595"}
+2019-07-27 11:48:05 Image2BaiduApi.py[line:120] INFO: {"log_id": 2155469493346011227, "cont_sign": "1542156595,2772817771"}
+2019-07-27 11:48:05 Upload2Baidu.py[line:55] INFO: 开始上传图片至Baidu,总计剩余 757252 张图片待上传
+2019-07-27 11:48:09 Image2BaiduApi.py[line:120] INFO: {"log_id": 3911413705734015675, "cont_sign": "215960932,544936364"}
+2019-07-27 11:48:13 Image2BaiduApi.py[line:120] INFO: {"log_id": 6142794748721390203, "cont_sign": "2894783599,752374494"}
+2019-07-27 11:48:17 Image2BaiduApi.py[line:120] INFO: {"log_id": 7770907353908906523, "cont_sign": "1715515855,3184831367"}
+2019-07-27 11:48:20 Image2BaiduApi.py[line:120] INFO: {"log_id": 2698640222821312539, "cont_sign": "3862914831,1653237013"}
+2019-07-27 11:48:24 Image2BaiduApi.py[line:120] INFO: {"log_id": 2124277329541360411, "cont_sign": "3729865519,3070425269"}
+2019-07-27 11:48:24 Upload2Baidu.py[line:55] INFO: 开始上传图片至Baidu,总计剩余 757247 张图片待上传
+2019-07-27 11:48:28 Image2BaiduApi.py[line:120] INFO: {"log_id": 7405533406692363995, "cont_sign": "2051323607,1359896479"}
+2019-07-27 11:48:31 Image2BaiduApi.py[line:120] INFO: {"log_id": 1341835734242625339, "cont_sign": "2040342923,933408940"}
+2019-07-27 11:48:36 Image2BaiduApi.py[line:120] INFO: {"log_id": 2425968705191510907, "cont_sign": "3067323548,3963017350"}
+2019-07-27 11:48:41 Image2BaiduApi.py[line:120] INFO: {"log_id": 3238165840013034619, "cont_sign": "4073266967,3656823845"}
+2019-07-27 11:48:46 Image2BaiduApi.py[line:120] INFO: {"log_id": 4615180736775491035, "cont_sign": "2753120725,2753802143"}
+2019-07-27 11:48:46 Upload2Baidu.py[line:55] INFO: 开始上传图片至Baidu,总计剩余 757242 张图片待上传
+2019-07-27 11:48:50 Image2BaiduApi.py[line:120] INFO: {"log_id": 2547454411852031867, "cont_sign": "608191841,33903567"}
+2019-07-27 11:48:52 Image2BaiduApi.py[line:120] INFO: {"log_id": 5276754351211248059, "cont_sign": "2091744423,2386001316"}
+2019-07-27 11:48:56 Image2BaiduApi.py[line:120] INFO: {"log_id": 2454075100211257691, "cont_sign": "2041549088,3052226135"}
+2019-07-27 11:48:58 Image2BaiduApi.py[line:120] INFO: {"log_id": 7690425726175103323, "cont_sign": "2976825805,2895871334"}
+2019-07-27 11:49:03 Image2BaiduApi.py[line:120] INFO: {"log_id": 6231374052523251099, "cont_sign": "3643333270,649309748"}
+2019-07-27 11:49:03 Upload2Baidu.py[line:55] INFO: 开始上传图片至Baidu,总计剩余 757237 张图片待上传
+2019-07-27 11:49:07 Image2BaiduApi.py[line:120] INFO: {"log_id": 4699441577147540731, "cont_sign": "1476246826,207325680"}
+2019-07-27 11:49:10 Image2BaiduApi.py[line:120] INFO: {"log_id": 1057287400957006587, "cont_sign": "2291733998,804916490"}
+2019-07-27 11:49:13 Image2BaiduApi.py[line:120] INFO: {"log_id": 2338122108867651643, "cont_sign": "1902622447,1810559195"}
+2019-07-27 11:49:17 Image2BaiduApi.py[line:120] INFO: {"log_id": 36288989076903963, "cont_sign": "131113467,168354545"}
+2019-07-27 11:49:25 Image2BaiduApi.py[line:120] INFO: {"log_id": 5816715325379699131, "error_code": 216202, "error_msg": "image size error"}
+2019-07-27 11:49:25 Upload2Baidu.py[line:55] INFO: 开始上传图片至Baidu,总计剩余 757232 张图片待上传
+2019-07-27 11:49:29 Image2BaiduApi.py[line:120] INFO: {"log_id": 4765936104337479387, "cont_sign": "1203013329,4160536775"}
+2019-07-27 11:49:33 Image2BaiduApi.py[line:120] INFO: {"log_id": 3045794711148396347, "cont_sign": "1144484353,3404616133"}
+2019-07-27 11:49:37 Image2BaiduApi.py[line:120] INFO: {"log_id": 8749180563789667099, "cont_sign": "23442391,3233057774"}
+2019-07-27 11:49:40 Image2BaiduApi.py[line:120] INFO: {"log_id": 7146263874778594747, "cont_sign": "1108155112,93664823"}
+2019-07-27 11:49:44 Image2BaiduApi.py[line:120] INFO: {"log_id": 3400566775842765339, "cont_sign": "298073437,2756535524"}
+2019-07-27 11:49:44 Upload2Baidu.py[line:55] INFO: 开始上传图片至Baidu,总计剩余 757227 张图片待上传
+2019-07-27 11:49:47 Image2BaiduApi.py[line:120] INFO: {"log_id": 3905039330187160507, "cont_sign": "181538659,3666774037"}
+2019-07-27 11:49:50 Image2BaiduApi.py[line:120] INFO: {"log_id": 6707023346397232283, "cont_sign": "1999152889,3347179318"}
+2019-07-27 11:49:54 Image2BaiduApi.py[line:120] INFO: {"log_id": 4983394043440886139, "cont_sign": "392533968,3836086238"}
+2019-07-27 11:49:56 Image2BaiduApi.py[line:120] INFO: {"log_id": 4557349922097773531, "cont_sign": "3760638285,3435037524"}
+2019-07-27 11:50:01 Image2BaiduApi.py[line:120] INFO: {"log_id": 5110890344023900667, "cont_sign": "1221562990,3079012107"}
+2019-07-27 11:50:01 Upload2Baidu.py[line:55] INFO: 开始上传图片至Baidu,总计剩余 757222 张图片待上传
+2019-07-27 11:50:06 Image2BaiduApi.py[line:120] INFO: {"log_id": 8230490488129432379, "cont_sign": "2324921273,2969946129"}
+2019-07-27 11:50:11 Image2BaiduApi.py[line:120] INFO: {"log_id": 6080969710381822203, "cont_sign": "1441485547,2334559"}
+2019-07-27 11:50:15 Image2BaiduApi.py[line:120] INFO: {"log_id": 7633398192046063899, "cont_sign": "1691268059,3944931066"}
+2019-07-27 11:50:21 Image2BaiduApi.py[line:120] INFO: {"log_id": 6644113559499039227, "cont_sign": "612461265,2871139418"}
+2019-07-27 11:50:30 Image2BaiduApi.py[line:120] INFO: {"log_id": 5515076340303086395, "cont_sign": "1370339056,2098349551"}
+2019-07-27 11:50:30 Upload2Baidu.py[line:55] INFO: 开始上传图片至Baidu,总计剩余 757217 张图片待上传
+2019-07-27 11:50:33 Image2BaiduApi.py[line:120] INFO: {"log_id": 1128471569592862139, "cont_sign": "1393804543,3637619492"}
+2019-07-27 11:50:36 Image2BaiduApi.py[line:120] INFO: {"log_id": 646758676946196635, "cont_sign": "3198598200,4200883109"}
+2019-07-27 11:50:42 Image2BaiduApi.py[line:120] INFO: {"log_id": 2434223874864547067, "cont_sign": "3760858191,1772052809"}
+2019-07-27 11:50:45 Image2BaiduApi.py[line:120] INFO: {"log_id": 1170562916198770747, "cont_sign": "854671502,4083354474"}
+2019-07-27 11:50:48 Image2BaiduApi.py[line:120] INFO: {"log_id": 6060783405501642523, "cont_sign": "719539049,3620124360"}
+2019-07-27 11:50:48 Upload2Baidu.py[line:55] INFO: 开始上传图片至Baidu,总计剩余 757212 张图片待上传
+2019-07-27 11:50:54 Image2BaiduApi.py[line:120] INFO: {"log_id": 4432325303884928251, "cont_sign": "1449746341,1297765378"}
+2019-07-27 11:50:58 Image2BaiduApi.py[line:120] INFO: {"log_id": 2905367351596771387, "cont_sign": "2204194003,1484762767"}
+2019-07-27 11:51:02 Image2BaiduApi.py[line:120] INFO: {"log_id": 1277048496360571835, "cont_sign": "846892785,1401221321"}
+2019-07-27 11:51:07 Image2BaiduApi.py[line:120] INFO: {"log_id": 88291165064967131, "cont_sign": "1216117229,3312126977"}
+2019-07-27 11:51:11 Image2BaiduApi.py[line:120] INFO: {"log_id": 5044775562414799099, "cont_sign": "543433010,3976842098"}
+2019-07-27 11:51:11 Upload2Baidu.py[line:55] INFO: 开始上传图片至Baidu,总计剩余 757207 张图片待上传
+2019-07-27 11:51:15 Image2BaiduApi.py[line:120] INFO: {"log_id": 9060190399637201563, "cont_sign": "2357786061,551968006"}
+2019-07-27 11:51:18 Image2BaiduApi.py[line:120] INFO: {"log_id": 6640825669803225211, "cont_sign": "169790861,4233534113"}
+2019-07-27 11:51:23 Image2BaiduApi.py[line:120] INFO: {"log_id": 4557562612694797467, "cont_sign": "2924690957,1425897659"}
+2019-07-27 11:51:31 Image2BaiduApi.py[line:120] INFO: {"log_id": 6056536697209042523, "cont_sign": "4063614766,2772963222"}
+2019-07-27 11:51:35 Image2BaiduApi.py[line:120] INFO: {"log_id": 8678552984063193339, "cont_sign": "2634801563,1662812267"}
+2019-07-27 11:51:35 Upload2Baidu.py[line:55] INFO: 开始上传图片至Baidu,总计剩余 757202 张图片待上传
+2019-07-27 11:51:38 Image2BaiduApi.py[line:120] INFO: {"log_id": 1476154651265397179, "cont_sign": "4101020463,3221559734"}
+2019-07-27 11:51:41 Image2BaiduApi.py[line:120] INFO: {"log_id": 6250955347389789275, "cont_sign": "862603319,3258540472"}
+2019-07-27 11:51:46 Image2BaiduApi.py[line:120] INFO: {"log_id": 5955640418335774491, "cont_sign": "160015505,3272096345"}
+2019-07-27 11:51:49 Image2BaiduApi.py[line:120] INFO: {"log_id": 7695638339350312827, "cont_sign": "691454361,2643723129"}
+2019-07-27 11:51:53 Image2BaiduApi.py[line:120] INFO: {"log_id": 7235416719690313787, "cont_sign": "3664259129,3152608991"}
+2019-07-27 11:51:53 Upload2Baidu.py[line:55] INFO: 开始上传图片至Baidu,总计剩余 757197 张图片待上传
+2019-07-27 11:51:56 Image2BaiduApi.py[line:120] INFO: {"log_id": 1479046947807611163, "cont_sign": "2243301705,2137601991"}
+2019-07-27 11:52:00 Image2BaiduApi.py[line:120] INFO: {"log_id": 8628502950094281659, "cont_sign": "2774924674,1570038727"}
+2019-07-27 11:52:12 Image2BaiduApi.py[line:120] INFO: {"log_id": 3965261934373118395, "cont_sign": "4056071724,3135133494"}
+2019-07-27 11:52:15 Image2BaiduApi.py[line:120] INFO: {"log_id": 84790964840241115, "cont_sign": "2932481662,2006655678"}
+2019-07-27 11:52:19 Image2BaiduApi.py[line:120] INFO: {"log_id": 5848399208915403931, "cont_sign": "4089000604,3125278825"}
+2019-07-27 11:52:19 Upload2Baidu.py[line:55] INFO: 开始上传图片至Baidu,总计剩余 757192 张图片待上传
+2019-07-27 11:52:21 Image2BaiduApi.py[line:120] INFO: {"log_id": 6249784131878008219, "cont_sign": "1975541912,467276062"}
+2019-07-27 11:52:29 Image2BaiduApi.py[line:120] INFO: {"log_id": 6031442456936754299, "cont_sign": "3619042997,2200141897"}
+2019-07-27 11:52:33 Image2BaiduApi.py[line:120] INFO: {"log_id": 3599033699220747515, "cont_sign": "727894601,3610509650"}
+2019-07-27 11:52:36 Image2BaiduApi.py[line:120] INFO: {"log_id": 5388824741684728955, "cont_sign": "1385731983,2144053866"}
+2019-07-27 11:52:40 Image2BaiduApi.py[line:120] INFO: {"log_id": 7496268891216867131, "cont_sign": "128521886,287104372"}
+2019-07-27 11:52:40 Upload2Baidu.py[line:55] INFO: 开始上传图片至Baidu,总计剩余 757187 张图片待上传
+2019-07-27 11:52:44 Image2BaiduApi.py[line:120] INFO: {"log_id": 8689708607441267355, "cont_sign": "1971652874,1259538443"}
+2019-07-27 11:52:48 Image2BaiduApi.py[line:120] INFO: {"log_id": 8723993558931334331, "cont_sign": "3518822100,3260476512"}
+2019-07-27 11:52:57 Image2BaiduApi.py[line:120] INFO: {"log_id": 113096412293886203, "cont_sign": "503095128,1926389353"}
+2019-07-27 11:53:02 Image2BaiduApi.py[line:120] INFO: {"log_id": 7837623105231326235, "cont_sign": "102527879,3890876354"}
+2019-07-27 11:53:05 Image2BaiduApi.py[line:120] INFO: {"log_id": 1868381377101143227, "cont_sign": "1279786662,1712191320"}
+2019-07-27 11:53:05 Upload2Baidu.py[line:55] INFO: 开始上传图片至Baidu,总计剩余 757182 张图片待上传
+2019-07-27 11:53:09 Image2BaiduApi.py[line:120] INFO: {"log_id": 5227290149605135611, "cont_sign": "4002505766,905031603"}
+2019-07-27 11:53:20 Image2BaiduApi.py[line:120] INFO: {"log_id": 1017048840078001435, "cont_sign": "823175464,3909948991"}
+2019-07-27 11:53:29 Image2BaiduApi.py[line:120] INFO: {"log_id": 8621449777365897467, "cont_sign": "3848752362,184919896"}
+2019-07-27 11:53:32 Image2BaiduApi.py[line:120] INFO: {"log_id": 2847595250170282459, "cont_sign": "84856049,3877370037"}
+2019-07-27 11:53:36 Image2BaiduApi.py[line:120] INFO: {"log_id": 6819627260525298427, "cont_sign": "605813717,2020414719"}
+2019-07-27 11:53:36 Upload2Baidu.py[line:55] INFO: 开始上传图片至Baidu,总计剩余 757177 张图片待上传
+2019-07-27 11:53:46 Image2BaiduApi.py[line:120] INFO: {"log_id": 150577124223891899, "cont_sign": "662264400,2177328614"}
+2019-07-27 11:53:49 Image2BaiduApi.py[line:120] INFO: {"log_id": 538135043264780507, "cont_sign": "3008348091,3255163775"}
+2019-07-27 11:53:53 Image2BaiduApi.py[line:120] INFO: {"log_id": 3368851097833995579, "cont_sign": "1385200793,2142181492"}
+2019-07-27 11:53:58 Image2BaiduApi.py[line:120] INFO: {"log_id": 1783709211932160475, "cont_sign": "1918771929,558906955"}
+2019-07-27 11:54:06 Image2BaiduApi.py[line:120] INFO: {"log_id": 9149595536200335547, "cont_sign": "32593335,1189017834"}
+2019-07-27 11:54:06 Upload2Baidu.py[line:55] INFO: 开始上传图片至Baidu,总计剩余 757172 张图片待上传
+2019-07-27 11:54:11 Image2BaiduApi.py[line:120] INFO: {"log_id": 2957835313201679035, "cont_sign": "3284296284,4288783211"}
+2019-07-27 11:54:15 Image2BaiduApi.py[line:120] INFO: {"log_id": 2456335374413082427, "cont_sign": "3708983823,4044809645"}
+2019-07-27 11:54:20 Image2BaiduApi.py[line:120] INFO: {"log_id": 4918282249117895643, "cont_sign": "3907988892,813782530"}
+2019-07-27 11:54:25 Image2BaiduApi.py[line:120] INFO: {"log_id": 6180988931700896955, "cont_sign": "2866765902,1293308889"}
+2019-07-27 11:54:28 Image2BaiduApi.py[line:120] INFO: {"log_id": 879569086882669467, "cont_sign": "684947384,742312092"}
+2019-07-27 11:54:28 Upload2Baidu.py[line:55] INFO: 开始上传图片至Baidu,总计剩余 757167 张图片待上传
+2019-07-27 11:54:31 Image2BaiduApi.py[line:120] INFO: {"log_id": 6887749965385012763, "cont_sign": "3900747399,1702267426"}
+2019-07-27 11:54:36 Image2BaiduApi.py[line:120] INFO: {"log_id": 4898111908792164411, "cont_sign": "155783904,3272797667"}
+2019-07-27 11:54:39 Image2BaiduApi.py[line:120] INFO: {"log_id": 5145854360522641115, "cont_sign": "2140404233,2965456038"}
+2019-07-27 11:54:44 Image2BaiduApi.py[line:120] INFO: {"log_id": 2456748039639378939, "cont_sign": "3537463956,1427614238"}
+2019-07-27 11:54:47 Image2BaiduApi.py[line:120] INFO: {"log_id": 6014376988051887483, "cont_sign": "1094380754,1304085630"}
+2019-07-27 11:54:47 Upload2Baidu.py[line:55] INFO: 开始上传图片至Baidu,总计剩余 757162 张图片待上传
+2019-07-27 11:54:52 Image2BaiduApi.py[line:120] INFO: {"log_id": 165232522379418715, "cont_sign": "1373841998,2948471861"}
+2019-07-27 11:54:54 Image2BaiduApi.py[line:120] INFO: {"log_id": 1940407589663820603, "cont_sign": "2418176133,2218136714"}
+2019-07-27 11:54:58 Image2BaiduApi.py[line:120] INFO: {"log_id": 2642908326817888123, "cont_sign": "1998578093,609667515"}
+2019-07-27 11:55:02 Image2BaiduApi.py[line:120] INFO: {"log_id": 2004848152842580091, "cont_sign": "1231716146,2962547311"}
+2019-07-27 11:55:06 Image2BaiduApi.py[line:120] INFO: {"log_id": 1555235085065606491, "cont_sign": "365109915,885498094"}
+2019-07-27 11:55:06 Upload2Baidu.py[line:55] INFO: 开始上传图片至Baidu,总计剩余 757157 张图片待上传
+2019-07-27 11:55:08 Image2BaiduApi.py[line:120] INFO: {"log_id": 8412244344938809499, "cont_sign": "3080131359,3577451784"}
+2019-07-27 11:55:14 Image2BaiduApi.py[line:120] INFO: {"log_id": 8822790542374527643, "cont_sign": "3604393775,2882856205"}
+2019-07-27 11:55:18 Image2BaiduApi.py[line:120] INFO: {"log_id": 8903731247678899195, "cont_sign": "3654481564,1752163733"}
+2019-07-27 11:55:24 Image2BaiduApi.py[line:120] INFO: {"log_id": 4768168256642710043, "cont_sign": "3762751359,3648042409"}
+2019-07-27 11:55:27 Image2BaiduApi.py[line:120] INFO: {"log_id": 7047929005515051803, "cont_sign": "98905140,1915876039"}
+2019-07-27 11:55:27 Upload2Baidu.py[line:55] INFO: 开始上传图片至Baidu,总计剩余 757152 张图片待上传
+2019-07-27 11:55:32 Image2BaiduApi.py[line:120] INFO: {"log_id": 1997610293422878523, "cont_sign": "1241229845,3841248066"}
+2019-07-27 11:55:37 Image2BaiduApi.py[line:120] INFO: {"log_id": 7781414039621115899, "cont_sign": "62497798,3458767995"}
+2019-07-27 11:55:39 Image2BaiduApi.py[line:120] INFO: {"log_id": 4980183545703917339, "cont_sign": "1613886921,3577713208"}
+2019-07-27 11:55:43 Image2BaiduApi.py[line:120] INFO: {"log_id": 1404823621865149723, "cont_sign": "3096443608,1441953925"}
+2019-07-27 11:55:46 Image2BaiduApi.py[line:120] INFO: {"log_id": 502711692716692187, "cont_sign": "3832213751,2857501260"}
+2019-07-27 11:55:46 Upload2Baidu.py[line:55] INFO: 开始上传图片至Baidu,总计剩余 757147 张图片待上传
+2019-07-27 11:55:53 Image2BaiduApi.py[line:120] INFO: {"log_id": 8955093851547363931, "cont_sign": "4117185494,457145024"}
+2019-07-27 11:55:57 Image2BaiduApi.py[line:120] INFO: {"log_id": 2644841502910151643, "cont_sign": "3556317726,2917842165"}
+2019-07-27 11:56:00 Image2BaiduApi.py[line:120] INFO: {"log_id": 8693783942177349755, "cont_sign": "3978127729,3200025585"}
+2019-07-27 11:56:05 Image2BaiduApi.py[line:120] INFO: {"log_id": 3902656195334919547, "cont_sign": "2058642961,2244624078"}
+2019-07-27 11:56:08 Image2BaiduApi.py[line:120] INFO: {"log_id": 9002367304869940443, "cont_sign": "3431874450,3213725758"}
+2019-07-27 11:56:08 Upload2Baidu.py[line:55] INFO: 开始上传图片至Baidu,总计剩余 757142 张图片待上传
+2019-07-27 11:56:12 Image2BaiduApi.py[line:120] INFO: {"log_id": 6418592664996905147, "cont_sign": "1769984546,745310377"}
+2019-07-27 11:56:16 Image2BaiduApi.py[line:120] INFO: {"log_id": 3831341949369866555, "cont_sign": "1245877003,2096851253"}
+2019-07-27 11:56:20 Image2BaiduApi.py[line:120] INFO: {"log_id": 1555347310586188123, "cont_sign": "1118211588,2115153650"}
+2019-07-27 11:56:24 Image2BaiduApi.py[line:120] INFO: {"log_id": 8667758092366827963, "cont_sign": "2324087986,3714294137"}
+2019-07-27 11:56:26 Image2BaiduApi.py[line:120] INFO: {"log_id": 6190897402548280731, "cont_sign": "2850479693,3422192428"}
+2019-07-27 11:56:26 Upload2Baidu.py[line:55] INFO: 开始上传图片至Baidu,总计剩余 757137 张图片待上传
+2019-07-27 11:56:31 Image2BaiduApi.py[line:120] INFO: {"log_id": 7934666078048175899, "cont_sign": "3657711278,608218624"}
+2019-07-27 11:56:35 Image2BaiduApi.py[line:120] INFO: {"log_id": 4715833046977876539, "cont_sign": "3491876059,2743290823"}
+2019-07-27 11:56:38 Image2BaiduApi.py[line:120] INFO: {"log_id": 7311975556185438171, "cont_sign": "2681388476,1394912981"}
+2019-07-27 11:56:42 Image2BaiduApi.py[line:120] INFO: {"log_id": 4733719669525592923, "cont_sign": "2187149147,2680720368"}
+2019-07-27 11:56:49 Image2BaiduApi.py[line:120] INFO: {"log_id": 2051487704740871739, "cont_sign": "968935675,2207215291"}
+2019-07-27 11:56:49 Upload2Baidu.py[line:55] INFO: 开始上传图片至Baidu,总计剩余 757132 张图片待上传
+2019-07-27 11:56:52 Image2BaiduApi.py[line:120] INFO: {"log_id": 2132539287832991291, "cont_sign": "434538965,400198871"}
+2019-07-27 11:57:00 Image2BaiduApi.py[line:120] INFO: {"log_id": 338294358002362011, "cont_sign": "4051259491,4128698608"}
+2019-07-27 11:57:04 Image2BaiduApi.py[line:120] INFO: {"log_id": 9048451745885658363, "cont_sign": "1812104817,2200324570"}
+2019-07-27 11:57:07 Image2BaiduApi.py[line:120] INFO: {"log_id": 99143745566898107, "cont_sign": "1050008429,283154700"}
+2019-07-27 11:57:10 Image2BaiduApi.py[line:120] INFO: {"log_id": 1388133280812006459, "cont_sign": "554345251,674564355"}
+2019-07-27 11:57:10 Upload2Baidu.py[line:55] INFO: 开始上传图片至Baidu,总计剩余 757127 张图片待上传
+2019-07-27 11:57:15 Image2BaiduApi.py[line:120] INFO: {"log_id": 6377122765314684379, "cont_sign": "2556025161,16009681"}
+2019-07-27 11:57:18 Image2BaiduApi.py[line:120] INFO: {"log_id": 8804738500332597947, "cont_sign": "3585499707,3032198775"}
+2019-07-27 11:57:22 Image2BaiduApi.py[line:120] INFO: {"log_id": 6892413714903984507, "cont_sign": "1276003509,1770936725"}
+2019-07-27 11:57:25 Image2BaiduApi.py[line:120] INFO: {"log_id": 7602563015994733979, "cont_sign": "1767743154,2097146547"}
+2019-07-27 11:57:29 Image2BaiduApi.py[line:120] INFO: {"log_id": 116805053864917339, "cont_sign": "4183637723,359955578"}
+2019-07-27 11:57:29 Upload2Baidu.py[line:55] INFO: 开始上传图片至Baidu,总计剩余 757122 张图片待上传
+2019-07-27 11:57:33 Image2BaiduApi.py[line:120] INFO: {"log_id": 7366768695047094331, "cont_sign": "3145789010,1169211996"}
+2019-07-27 11:57:36 Image2BaiduApi.py[line:120] INFO: {"log_id": 3185005026746368795, "cont_sign": "2459563095,3149383500"}
+2019-07-27 11:57:40 Image2BaiduApi.py[line:120] INFO: {"log_id": 5351234475871502235, "cont_sign": "325114109,970167577"}
+2019-07-27 11:57:45 Image2BaiduApi.py[line:120] INFO: {"log_id": 8412439803745420123, "cont_sign": "3368451542,3078399388"}
+2019-07-27 11:57:49 Image2BaiduApi.py[line:120] INFO: {"log_id": 322443298935736347, "cont_sign": "1371471300,2563957878"}
+2019-07-27 11:57:49 Upload2Baidu.py[line:55] INFO: 开始上传图片至Baidu,总计剩余 757117 张图片待上传
+2019-07-27 11:57:59 Image2BaiduApi.py[line:120] INFO: {"log_id": 3818380138859445595, "cont_sign": "2540868090,4205211118"}
+2019-07-27 11:58:03 Image2BaiduApi.py[line:120] INFO: {"log_id": 5711207253057451291, "cont_sign": "2032720145,2575484824"}
+2019-07-27 11:58:08 Image2BaiduApi.py[line:120] INFO: {"log_id": 4714575642101560763, "cont_sign": "2167802776,2763518580"}
+2019-07-27 11:58:13 Image2BaiduApi.py[line:120] INFO: {"log_id": 4509522968007653403, "cont_sign": "3350995916,1490126334"}
+2019-07-27 11:58:17 Image2BaiduApi.py[line:120] INFO: {"log_id": 5476202761445551675, "cont_sign": "1924594851,3591208849"}
+2019-07-27 11:58:17 Upload2Baidu.py[line:55] INFO: 开始上传图片至Baidu,总计剩余 757112 张图片待上传
+2019-07-27 11:58:20 Image2BaiduApi.py[line:120] INFO: {"log_id": 5901271704124924987, "cont_sign": "381042488,4230992597"}
+2019-07-27 11:58:24 Image2BaiduApi.py[line:120] INFO: {"log_id": 1885524269768784283, "cont_sign": "262984505,2152320446"}
+2019-07-27 11:58:27 Image2BaiduApi.py[line:120] INFO: {"log_id": 4508782800933833307, "cont_sign": "3842138466,1710814546"}
+2019-07-27 11:58:31 Image2BaiduApi.py[line:120] INFO: {"log_id": 7125310011281235771, "cont_sign": "1053859326,4208056100"}
+2019-07-27 11:58:35 Image2BaiduApi.py[line:120] INFO: {"log_id": 7283398483022385691, "cont_sign": "821412489,387987865"}
+2019-07-27 11:58:35 Upload2Baidu.py[line:55] INFO: 开始上传图片至Baidu,总计剩余 757107 张图片待上传
+2019-07-27 11:58:42 Image2BaiduApi.py[line:120] INFO: {"log_id": 2986376775244583195, "cont_sign": "2499985542,236944372"}
+2019-07-27 11:58:45 Image2BaiduApi.py[line:120] INFO: {"log_id": 436008345202845051, "cont_sign": "2980106919,1814380307"}
+2019-07-27 11:58:50 Image2BaiduApi.py[line:120] INFO: {"log_id": 1126044016460533179, "cont_sign": "2820294040,1546071546"}
+2019-07-27 11:58:54 Image2BaiduApi.py[line:120] INFO: {"log_id": 6013601445354595003, "cont_sign": "3487364725,2606223477"}
+2019-07-27 11:58:56 Image2BaiduApi.py[line:120] INFO: {"log_id": 7445089095447076859, "cont_sign": "1810789996,373853970"}
+2019-07-27 11:58:56 Upload2Baidu.py[line:55] INFO: 开始上传图片至Baidu,总计剩余 757102 张图片待上传
+2019-07-27 11:59:02 Image2BaiduApi.py[line:120] INFO: {"log_id": 5878185459591732891, "error_code": 216202, "error_msg": "image size error"}
+2019-07-27 11:59:07 Image2BaiduApi.py[line:120] INFO: {"log_id": 6469975439326453595, "cont_sign": "1158877241,199931581"}
+2019-07-27 11:59:11 Image2BaiduApi.py[line:120] INFO: {"log_id": 8246992362345711579, "cont_sign": "2142879699,3457192238"}
+2019-07-27 11:59:14 Image2BaiduApi.py[line:120] INFO: {"log_id": 5701574589300396411, "cont_sign": "133355429,2053460880"}
+2019-07-27 11:59:18 Image2BaiduApi.py[line:120] INFO: {"log_id": 8700090397310622299, "cont_sign": "156869409,866157571"}
+2019-07-27 11:59:18 Upload2Baidu.py[line:55] INFO: 开始上传图片至Baidu,总计剩余 757097 张图片待上传
+2019-07-27 11:59:21 Image2BaiduApi.py[line:120] INFO: {"log_id": 502290435791031931, "cont_sign": "3678771204,56030586"}
+2019-07-27 11:59:23 Image2BaiduApi.py[line:120] INFO: {"log_id": 8768690472038392379, "cont_sign": "3229355211,3245510806"}
+2019-07-27 11:59:26 Image2BaiduApi.py[line:120] INFO: {"log_id": 1470004335962797627, "cont_sign": "4243634329,604904646"}
+2019-07-27 11:59:30 Image2BaiduApi.py[line:120] INFO: {"log_id": 9039789362873083323, "cont_sign": "2332522795,2279325734"}
+2019-07-27 11:59:35 Image2BaiduApi.py[line:120] INFO: {"log_id": 8762957959154179579, "cont_sign": "2514024071,3911903786"}
+2019-07-27 11:59:35 Upload2Baidu.py[line:55] INFO: 开始上传图片至Baidu,总计剩余 757092 张图片待上传
+2019-07-27 11:59:39 Image2BaiduApi.py[line:120] INFO: {"log_id": 1896965444322388571, "cont_sign": "319425812,2802602499"}
+2019-07-27 11:59:45 Image2BaiduApi.py[line:120] INFO: {"log_id": 3828939258606884731, "cont_sign": "2078695136,646297265"}
+2019-07-27 11:59:49 Image2BaiduApi.py[line:120] INFO: {"log_id": 7689351550750431611, "cont_sign": "1963572678,2510496908"}
+2019-07-27 11:59:52 Image2BaiduApi.py[line:120] INFO: {"log_id": 4251367466831501403, "cont_sign": "3959735825,1231232009"}
+2019-07-27 11:59:55 Image2BaiduApi.py[line:120] INFO: {"log_id": 207066047535063291, "cont_sign": "2357874372,2899903323"}
+2019-07-27 11:59:55 Upload2Baidu.py[line:55] INFO: 开始上传图片至Baidu,总计剩余 757087 张图片待上传
+2019-07-27 11:59:59 Image2BaiduApi.py[line:120] INFO: {"log_id": 4680410865279365275, "cont_sign": "3530048478,1439042573"}
+2019-07-27 12:00:02 Image2BaiduApi.py[line:120] INFO: {"log_id": 5784052339873405883, "cont_sign": "918726942,2980183380"}
+2019-07-27 12:00:05 Image2BaiduApi.py[line:120] INFO: {"log_id": 5428304769095905563, "cont_sign": "4164339131,2238299826"}
+2019-07-27 12:00:10 Image2BaiduApi.py[line:120] INFO: {"log_id": 5333479742586489787, "cont_sign": "1660884681,4217413426"}
+2019-07-27 12:00:13 Image2BaiduApi.py[line:120] INFO: {"log_id": 8280697245259190843, "cont_sign": "792358460,2949229593"}
+2019-07-27 12:00:13 Upload2Baidu.py[line:55] INFO: 开始上传图片至Baidu,总计剩余 757082 张图片待上传
+2019-07-27 12:00:16 Image2BaiduApi.py[line:120] INFO: {"log_id": 8076488021395408699, "cont_sign": "619035336,3145251971"}
+2019-07-27 12:00:20 Image2BaiduApi.py[line:120] INFO: {"log_id": 4622485928003675867, "cont_sign": "2457399047,2933055634"}
+2019-07-27 12:00:23 Image2BaiduApi.py[line:120] INFO: {"log_id": 6746139464920043931, "cont_sign": "205020636,1829814307"}
+2019-07-27 12:00:24 Image2BaiduApi.py[line:120] INFO: {"log_id": 4852518202369239611, "error_code": 216201, "error_msg": "image format error"}
+2019-07-27 12:00:28 Image2BaiduApi.py[line:120] INFO: {"log_id": 699975299621708155, "cont_sign": "3232795049,3141854480"}
+2019-07-27 12:00:28 Upload2Baidu.py[line:55] INFO: 开始上传图片至Baidu,总计剩余 757077 张图片待上传
+2019-07-27 12:00:31 Image2BaiduApi.py[line:120] INFO: {"log_id": 7442250667488470331, "cont_sign": "65157379,2369304525"}
+2019-07-27 12:00:35 Image2BaiduApi.py[line:120] INFO: {"log_id": 7393391047405629307, "cont_sign": "2630633671,3449832305"}
+2019-07-27 12:00:40 Image2BaiduApi.py[line:120] INFO: {"log_id": 4166848183324731355, "cont_sign": "1856231659,3523348196"}
+2019-07-27 12:00:43 Image2BaiduApi.py[line:120] INFO: {"log_id": 4143601974211849627, "cont_sign": "2517569541,2176470240"}
+2019-07-27 12:00:52 Image2BaiduApi.py[line:120] INFO: {"log_id": 7564659441204466715, "cont_sign": "2943019099,1246458547"}
+2019-07-27 12:00:52 Upload2Baidu.py[line:55] INFO: 开始上传图片至Baidu,总计剩余 757072 张图片待上传
+2019-07-27 12:00:56 Image2BaiduApi.py[line:120] INFO: {"log_id": 7539574458422251163, "cont_sign": "3320348247,3883494701"}
+2019-07-27 12:01:01 Image2BaiduApi.py[line:120] INFO: {"log_id": 7638333175809231579, "cont_sign": "711374777,3546420506"}
+2019-07-27 12:01:05 Image2BaiduApi.py[line:120] INFO: {"log_id": 1526003835979798043, "cont_sign": "4260049126,2858348496"}
+2019-07-27 12:01:09 Image2BaiduApi.py[line:120] INFO: {"log_id": 3513302119649349371, "cont_sign": "3665315874,761176879"}
+2019-07-27 12:01:11 Image2BaiduApi.py[line:120] INFO: {"log_id": 3511982703688570875, "cont_sign": "1961368668,4091633077"}
+2019-07-27 12:01:11 Upload2Baidu.py[line:55] INFO: 开始上传图片至Baidu,总计剩余 757067 张图片待上传
+2019-07-27 12:01:16 Image2BaiduApi.py[line:120] INFO: {"log_id": 3383847981231124955, "cont_sign": "2721342515,3336652253"}
+2019-07-27 12:01:28 Image2BaiduApi.py[line:120] INFO: {"log_id": 4355472249837311451, "cont_sign": "4004676386,1330390995"}
+2019-07-27 12:01:32 Image2BaiduApi.py[line:120] INFO: {"log_id": 6428256519393872091, "cont_sign": "4143460431,675742355"}
+2019-07-27 12:01:35 Image2BaiduApi.py[line:120] INFO: {"log_id": 2834261236688266811, "cont_sign": "502435744,1041587518"}
+2019-07-27 12:01:38 Image2BaiduApi.py[line:120] INFO: {"log_id": 2962824256836254395, "cont_sign": "984603628,601900121"}
+2019-07-27 12:01:38 Upload2Baidu.py[line:55] INFO: 开始上传图片至Baidu,总计剩余 757062 张图片待上传
+2019-07-27 12:01:43 Image2BaiduApi.py[line:120] INFO: {"log_id": 5047988965495774363, "cont_sign": "1907199347,3025385741"}
+2019-07-27 12:01:46 Image2BaiduApi.py[line:120] INFO: {"log_id": 5271611319603507611, "cont_sign": "2965979285,2973467708"}
+2019-07-27 12:01:50 Image2BaiduApi.py[line:120] INFO: {"log_id": 514962864593378075, "cont_sign": "2189886008,3186984452"}
+2019-07-27 12:01:53 Image2BaiduApi.py[line:120] INFO: {"log_id": 5612353605835664571, "cont_sign": "372634687,1628357720"}
+2019-07-27 12:02:02 Image2BaiduApi.py[line:120] INFO: {"log_id": 5655729370995354779, "cont_sign": "4159114910,189583452"}
+2019-07-27 12:02:02 Upload2Baidu.py[line:55] INFO: 开始上传图片至Baidu,总计剩余 757057 张图片待上传
+2019-07-27 12:02:07 Image2BaiduApi.py[line:120] INFO: {"log_id": 1710649671604723867, "cont_sign": "2839079719,3418807029"}
+2019-07-27 12:02:13 Image2BaiduApi.py[line:120] INFO: {"log_id": 2855897252336976603, "cont_sign": "4195553821,756124535"}
+2019-07-27 12:02:17 Image2BaiduApi.py[line:120] INFO: {"log_id": 7183329653636730779, "cont_sign": "4148040747,2658378009"}
+2019-07-27 12:02:20 Image2BaiduApi.py[line:120] INFO: {"log_id": 4808501840692311579, "cont_sign": "3095878411,565799125"}
+2019-07-27 12:02:24 Image2BaiduApi.py[line:120] INFO: {"log_id": 8896262367085635547, "cont_sign": "1909262456,3651847716"}
+2019-07-27 12:02:24 Upload2Baidu.py[line:55] INFO: 开始上传图片至Baidu,总计剩余 757052 张图片待上传
+2019-07-27 12:02:26 Image2BaiduApi.py[line:120] INFO: {"log_id": 8912333580944811323, "cont_sign": "2268917623,4280324938"}
+2019-07-27 12:02:29 Image2BaiduApi.py[line:120] INFO: {"log_id": 7829450978917799707, "cont_sign": "1005307949,1205356510"}
+2019-07-27 12:02:32 Image2BaiduApi.py[line:120] INFO: {"log_id": 6497484245173698427, "cont_sign": "2617897313,1898642968"}
+2019-07-27 12:02:36 Image2BaiduApi.py[line:120] INFO: {"log_id": 7736057807490890939, "cont_sign": "1148849806,4143548493"}
+2019-07-27 12:02:40 Image2BaiduApi.py[line:120] INFO: {"log_id": 3994369224740549467, "cont_sign": "2017608963,686949877"}
+2019-07-27 12:02:40 Upload2Baidu.py[line:55] INFO: 开始上传图片至Baidu,总计剩余 757047 张图片待上传
+2019-07-27 12:02:44 Image2BaiduApi.py[line:120] INFO: {"log_id": 6919105978055397179, "cont_sign": "1894821438,796011954"}
+2019-07-27 12:02:47 Image2BaiduApi.py[line:120] INFO: {"log_id": 8528662998145338971, "cont_sign": "1809176747,1448702533"}
+2019-07-27 12:02:51 Image2BaiduApi.py[line:120] INFO: {"log_id": 5555461413123571643, "cont_sign": "2660946654,2974154164"}
+2019-07-27 12:02:57 Image2BaiduApi.py[line:120] INFO: {"log_id": 2627791033012142363, "cont_sign": "1913962456,3059984404"}
+2019-07-27 12:03:01 Image2BaiduApi.py[line:120] INFO: {"log_id": 4496973417662108955, "cont_sign": "1684402798,3926403505"}
+2019-07-27 12:03:01 Upload2Baidu.py[line:55] INFO: 开始上传图片至Baidu,总计剩余 757042 张图片待上传
+2019-07-27 12:03:11 Image2BaiduApi.py[line:120] INFO: {"log_id": 8222738334386517819, "cont_sign": "2863349830,2469572376"}
+2019-07-27 12:03:17 Image2BaiduApi.py[line:120] INFO: {"log_id": 2733139616968542907, "cont_sign": "3260634992,1123417238"}
+2019-07-27 12:03:22 Image2BaiduApi.py[line:120] INFO: {"log_id": 829166051466981339, "cont_sign": "23515530,3646033074"}
+2019-07-27 12:03:29 Image2BaiduApi.py[line:120] INFO: {"log_id": 5404780755236588283, "cont_sign": "4174196779,1044600320"}
+2019-07-27 12:03:41 Image2BaiduApi.py[line:120] INFO: {"log_id": 4238518191275008123, "cont_sign": "2110459880,888091581"}
+2019-07-27 12:03:41 Upload2Baidu.py[line:55] INFO: 开始上传图片至Baidu,总计剩余 757037 张图片待上传
+2019-07-27 12:03:45 Image2BaiduApi.py[line:120] INFO: {"log_id": 1640491788605004539, "cont_sign": "2527087052,2876972120"}
+2019-07-27 12:03:48 Image2BaiduApi.py[line:120] INFO: {"log_id": 1085093942922780123, "cont_sign": "1513367200,2004699605"}
+2019-07-27 12:05:50 Image2BaiduApi.py[line:120] INFO: {"log_id": 7277685353292395003, "cont_sign": "3484726619,1551260133"}
+2019-07-27 12:05:53 Image2BaiduApi.py[line:120] INFO: {"log_id": 2108681853085570203, "cont_sign": "287361432,665013594"}
+2019-07-27 12:05:57 Image2BaiduApi.py[line:120] INFO: {"log_id": 3673078486807381083, "cont_sign": "1493811443,1630080729"}
+2019-07-27 12:05:57 Upload2Baidu.py[line:55] INFO: 开始上传图片至Baidu,总计剩余 757032 张图片待上传
+2019-07-27 12:06:00 Image2BaiduApi.py[line:120] INFO: {"log_id": 3883828384402300635, "cont_sign": "878963077,473530619"}
+2019-07-27 12:06:03 Image2BaiduApi.py[line:120] INFO: {"log_id": 6632842914755368827, "cont_sign": "1941472820,328023658"}
+2019-07-27 12:06:09 Image2BaiduApi.py[line:120] INFO: {"log_id": 8381927323399208027, "cont_sign": "2439068787,31495611"}
+2019-07-27 12:06:12 Image2BaiduApi.py[line:120] INFO: {"log_id": 3266337885883679387, "cont_sign": "3416403098,2874149105"}
+2019-07-27 12:06:15 Image2BaiduApi.py[line:120] INFO: {"log_id": 266170476493042139, "cont_sign": "1832672205,735512747"}
+2019-07-27 12:06:15 Upload2Baidu.py[line:55] INFO: 开始上传图片至Baidu,总计剩余 757027 张图片待上传
+2019-07-27 12:06:22 Image2BaiduApi.py[line:120] INFO: {"log_id": 2956766750266043067, "cont_sign": "2680189999,904065267"}
+2019-07-27 12:06:28 Image2BaiduApi.py[line:120] INFO: {"log_id": 3382314759378295483, "cont_sign": "2930632600,406912475"}
+2019-07-27 12:06:32 Image2BaiduApi.py[line:120] INFO: {"log_id": 7144256588965891579, "cont_sign": "1374022502,484860172"}
+2019-07-27 12:06:35 Image2BaiduApi.py[line:120] INFO: {"log_id": 6838053602008270779, "cont_sign": "3483472534,735518690"}
+2019-07-27 12:06:38 Image2BaiduApi.py[line:120] INFO: {"log_id": 4140933455839998587, "cont_sign": "2862936398,1014230192"}
+2019-07-27 12:06:38 Upload2Baidu.py[line:55] INFO: 开始上传图片至Baidu,总计剩余 757022 张图片待上传
+2019-07-27 12:06:41 Image2BaiduApi.py[line:120] INFO: {"log_id": 676506178773921467, "cont_sign": "3993489042,3521048198"}
+2019-07-27 12:06:44 Image2BaiduApi.py[line:120] INFO: {"log_id": 6355443671257205307, "cont_sign": "3702111908,401425660"}
+2019-07-27 12:06:48 Image2BaiduApi.py[line:120] INFO: {"log_id": 6617453359506168827, "cont_sign": "820279477,2560108842"}
+2019-07-27 12:06:50 Image2BaiduApi.py[line:120] INFO: {"log_id": 3034766473130237499, "cont_sign": "3397536186,328714693"}
+2019-07-27 12:06:57 Image2BaiduApi.py[line:120] INFO: {"log_id": 6753617010061521243, "cont_sign": "2098900253,2741054958"}
+2019-07-27 12:06:57 Upload2Baidu.py[line:55] INFO: 开始上传图片至Baidu,总计剩余 757017 张图片待上传
+2019-07-27 12:07:00 Image2BaiduApi.py[line:120] INFO: {"log_id": 5757082911461450843, "cont_sign": "4037270676,3728881260"}
+2019-07-27 12:07:03 Image2BaiduApi.py[line:120] INFO: {"log_id": 2892253413331244667, "cont_sign": "2580643005,4003911590"}
+2019-07-27 12:07:07 Image2BaiduApi.py[line:120] INFO: {"log_id": 1760007708764720315, "cont_sign": "1991456367,2751620453"}
+2019-07-27 13:20:41 Upload2Baidu.py[line:30] INFO: 开始上传图片至Baidu,总计剩余 757013 张图片待上传
+2019-07-27 13:20:48 Image2BaiduApi.py[line:120] INFO: {"log_id": 4125828891839171771, "cont_sign": "2212949546,4053265689"}
+2019-07-27 13:20:51 Image2BaiduApi.py[line:120] INFO: {"log_id": 5046140215776177499, "cont_sign": "4043179741,311355661"}
+2019-07-27 13:20:54 Image2BaiduApi.py[line:120] INFO: {"log_id": 5105290330365363451, "cont_sign": "228175356,1886626815"}
+2019-07-27 13:20:55 Image2BaiduApi.py[line:120] INFO: {"log_id": 7201594254226370299, "cont_sign": "1753464511,795221636"}
+2019-07-27 13:21:03 Image2BaiduApi.py[line:120] INFO: {"log_id": 257315435907828251, "cont_sign": "3213571213,3811819015"}
+2019-07-27 13:21:03 Upload2Baidu.py[line:30] INFO: 开始上传图片至Baidu,总计剩余 757008 张图片待上传
+2019-07-27 13:21:20 Image2BaiduApi.py[line:120] INFO: {"log_id": 5561704752900140763, "cont_sign": "1403540264,667935255"}
+2019-07-27 13:21:26 Image2BaiduApi.py[line:120] INFO: {"log_id": 506461050562057051, "cont_sign": "4225889650,4283707466"}
+2019-07-27 13:21:30 Image2BaiduApi.py[line:120] INFO: {"log_id": 7021274438746534555, "cont_sign": "4265041913,1006845598"}
+2019-07-27 13:21:34 Image2BaiduApi.py[line:120] INFO: {"log_id": 4573839520582065307, "cont_sign": "59356973,3694152645"}
+2019-07-27 13:27:23 Image2BaiduApi.py[line:120] INFO: {"log_id": 8966364187166930139, "error_code": 216202, "error_msg": "image size error"}
+2019-07-27 13:27:23 Upload2Baidu.py[line:30] INFO: 开始上传图片至Baidu,总计剩余 757003 张图片待上传
+2019-07-27 13:27:29 Image2BaiduApi.py[line:120] INFO: {"log_id": 2674299198095409915, "cont_sign": "2680112746,146176978"}
+2019-07-27 13:28:08 Image2BaiduApi.py[line:120] INFO: {"log_id": 4103332795103980091, "cont_sign": "3108214656,1077258681"}
+2019-07-27 13:28:13 Image2BaiduApi.py[line:120] INFO: {"log_id": 1158539941448598779, "cont_sign": "2679934530,3579463216"}
+2019-07-27 13:28:31 Image2BaiduApi.py[line:120] INFO: {"log_id": 8500800720234025627, "cont_sign": "3285283070,3062063157"}
+2019-07-27 13:34:17 Image2BaiduApi.py[line:120] INFO: {"log_id": 1324861122684452155, "error_code": 216202, "error_msg": "image size error"}
+2019-07-27 13:34:17 Upload2Baidu.py[line:30] INFO: 开始上传图片至Baidu,总计剩余 756998 张图片待上传
+2019-07-27 13:34:26 Image2BaiduApi.py[line:120] INFO: {"log_id": 4909641143369546203, "cont_sign": "3424095587,1144473495"}
+2019-07-27 13:34:29 Image2BaiduApi.py[line:120] INFO: {"log_id": 8758948298417468603, "cont_sign": "2534837857,2566574292"}
+2019-07-27 13:34:31 Image2BaiduApi.py[line:120] INFO: {"log_id": 5592708626747789851, "cont_sign": "1232038286,488544267"}
+2019-07-27 13:34:56 Image2BaiduApi.py[line:120] INFO: {"log_id": 929526385422215643, "cont_sign": "2069810384,4255168299"}
+2019-07-27 13:37:56 Image2BaiduApi.py[line:120] INFO: {"log_id": 41586164098032187, "cont_sign": "1642502789,1894931125"}
+2019-07-27 13:37:56 Upload2Baidu.py[line:30] INFO: 开始上传图片至Baidu,总计剩余 756993 张图片待上传
+2019-07-27 13:38:02 Image2BaiduApi.py[line:120] INFO: {"log_id": 3884724291526968891, "cont_sign": "3502674665,1905688120"}
+2019-07-27 13:38:07 Image2BaiduApi.py[line:120] INFO: {"log_id": 4369070958615352987, "cont_sign": "1970770739,1543335575"}
+2019-07-27 13:38:19 Image2BaiduApi.py[line:120] INFO: {"log_id": 7013571426439200507, "cont_sign": "2337343946,1040754018"}
+2019-07-27 13:38:29 Image2BaiduApi.py[line:120] INFO: {"log_id": 8438019081974552411, "cont_sign": "387327379,1699327484"}
+2019-07-27 13:42:18 Image2BaiduApi.py[line:120] INFO: {"log_id": 5744414086214697947, "cont_sign": "2553515237,2528379483"}
+2019-07-27 13:42:18 Upload2Baidu.py[line:30] INFO: 开始上传图片至Baidu,总计剩余 756988 张图片待上传
+2019-07-27 13:42:22 Image2BaiduApi.py[line:120] INFO: {"log_id": 5720776442322922203, "cont_sign": "1918951861,439309267"}
+2019-07-27 13:42:23 Image2BaiduApi.py[line:120] INFO: {"log_id": 2851344523647134139, "cont_sign": "4009658140,2466531003"}
+2019-07-27 13:42:27 Image2BaiduApi.py[line:120] INFO: {"log_id": 7571859898310224315, "cont_sign": "3622215000,1939879429"}
+2019-07-27 13:42:31 Image2BaiduApi.py[line:120] INFO: {"log_id": 7573356952483514075, "cont_sign": "12882173,2783560011"}
+2019-07-27 13:42:33 Image2BaiduApi.py[line:120] INFO: {"log_id": 7767330019980492091, "cont_sign": "3893936765,2799758241"}
+2019-07-27 13:42:33 Upload2Baidu.py[line:30] INFO: 开始上传图片至Baidu,总计剩余 756983 张图片待上传
+2019-07-27 13:42:37 Image2BaiduApi.py[line:120] INFO: {"log_id": 9198208331652141019, "cont_sign": "221477702,391439893"}
+2019-07-27 13:42:46 Image2BaiduApi.py[line:120] INFO: {"log_id": 539967426621016763, "cont_sign": "3993616951,1820202739"}
+2019-07-27 13:42:51 Image2BaiduApi.py[line:120] INFO: {"log_id": 8337162626277119291, "cont_sign": "2006303680,1145264553"}
+2019-07-27 13:42:54 Image2BaiduApi.py[line:120] INFO: {"log_id": 8095753374293911259, "cont_sign": "143609321,2116566118"}
+2019-07-27 13:42:58 Image2BaiduApi.py[line:120] INFO: {"log_id": 4920529865078172795, "cont_sign": "847848938,1495651201"}
+2019-07-27 13:42:58 Upload2Baidu.py[line:30] INFO: 开始上传图片至Baidu,总计剩余 756978 张图片待上传
+2019-07-27 13:43:06 Image2BaiduApi.py[line:120] INFO: {"log_id": 1243745578604668507, "cont_sign": "2560013327,2515716635"}
+2019-07-27 13:43:12 Image2BaiduApi.py[line:120] INFO: {"log_id": 1242324654124379899, "cont_sign": "2830386178,2509296548"}
+2019-07-27 13:43:17 Image2BaiduApi.py[line:120] INFO: {"log_id": 5536752398731910395, "cont_sign": "2722752705,2494784458"}
+2019-07-27 13:43:21 Image2BaiduApi.py[line:120] INFO: {"log_id": 6202950341053575995, "cont_sign": "2617712641,4110013699"}
+2019-07-27 15:23:18 Upload2Baidu.py[line:30] INFO: 开始上传图片至Baidu,总计剩余 756973 张图片待上传
+2019-07-27 15:23:23 Image2BaiduApi.py[line:120] INFO: {"log_id": 2337363285251880891, "cont_sign": "255478919,2367238190"}
+2019-07-27 15:23:29 Image2BaiduApi.py[line:120] INFO: {"log_id": 1549371652888178235, "cont_sign": "1187577935,1144275510"}
+2019-07-27 15:23:30 Image2BaiduApi.py[line:120] INFO: {"log_id": 7098864108409592987, "cont_sign": "2579993700,2198247066"}
+2019-07-27 15:23:34 Image2BaiduApi.py[line:120] INFO: {"log_id": 1632528925943271419, "cont_sign": "1005033969,3997839996"}
+2019-07-27 15:23:37 Image2BaiduApi.py[line:120] INFO: {"log_id": 8541230990524373211, "cont_sign": "3683645463,1025484542"}
+2019-07-27 15:23:37 Upload2Baidu.py[line:30] INFO: 开始上传图片至Baidu,总计剩余 756968 张图片待上传
+2019-07-27 15:23:41 Image2BaiduApi.py[line:120] INFO: {"log_id": 8169293738252722971, "cont_sign": "344694548,3715676776"}
+2019-07-27 15:23:48 Image2BaiduApi.py[line:120] INFO: {"log_id": 1512523205661732443, "cont_sign": "4294271265,8222755"}
+2019-07-27 15:23:55 Image2BaiduApi.py[line:120] INFO: {"log_id": 5924802976442842715, "cont_sign": "261365190,424474892"}
+2019-07-27 15:23:58 Image2BaiduApi.py[line:120] INFO: {"log_id": 336491631760828859, "cont_sign": "3515972519,2244134347"}
+2019-07-27 15:23:59 Image2BaiduApi.py[line:120] INFO: {"log_id": 5198800675546392187, "cont_sign": "3278692304,1605947596"}
+2019-07-27 15:23:59 Upload2Baidu.py[line:30] INFO: 开始上传图片至Baidu,总计剩余 756963 张图片待上传
+2019-07-27 15:24:05 Image2BaiduApi.py[line:120] INFO: {"log_id": 7120463971741050203, "cont_sign": "3546277609,811909401"}
+2019-07-27 15:24:09 Image2BaiduApi.py[line:120] INFO: {"log_id": 1312785881102938011, "cont_sign": "1116441053,525594786"}
+2019-07-27 15:24:32 Image2BaiduApi.py[line:120] INFO: {"log_id": 2314963963307832539, "cont_sign": "2295098264,2889946016"}
+2019-07-27 15:24:39 Image2BaiduApi.py[line:120] INFO: {"log_id": 5861924151881459675, "cont_sign": "3258848458,455971853"}
+2019-07-27 15:26:13 Image2BaiduApi.py[line:120] INFO: {"log_id": 7645318336012371099, "cont_sign": "1467982153,3265672644"}
+2019-07-27 15:26:13 Upload2Baidu.py[line:30] INFO: 开始上传图片至Baidu,总计剩余 756958 张图片待上传
+2019-07-27 15:26:18 Image2BaiduApi.py[line:120] INFO: {"log_id": 923308653228154555, "cont_sign": "3442798267,4090926478"}
+2019-07-27 15:26:23 Image2BaiduApi.py[line:120] INFO: {"log_id": 3001778010877738331, "cont_sign": "2870019771,1946901883"}
+2019-07-27 15:26:28 Image2BaiduApi.py[line:120] INFO: {"log_id": 6038647188754704347, "cont_sign": "3335831112,290536866"}
+2019-07-27 15:26:30 Image2BaiduApi.py[line:120] INFO: {"log_id": 6398697419305629275, "cont_sign": "2587549961,2525396296"}
+2019-07-27 15:26:33 Image2BaiduApi.py[line:120] INFO: {"log_id": 5091138398279579387, "cont_sign": "3934735253,478051176"}
+2019-07-27 15:26:33 Upload2Baidu.py[line:30] INFO: 开始上传图片至Baidu,总计剩余 756953 张图片待上传
+2019-07-27 15:26:38 Image2BaiduApi.py[line:120] INFO: {"log_id": 5925442954357271387, "cont_sign": "1691160022,3772020000"}
+2019-07-27 15:26:39 Image2BaiduApi.py[line:120] INFO: {"log_id": 6423223754745236155, "cont_sign": "1610326000,2727513321"}
+2019-07-27 15:26:42 Image2BaiduApi.py[line:120] INFO: {"log_id": 8211844559423045691, "cont_sign": "2267548022,2923680964"}
+2019-07-27 15:26:44 Image2BaiduApi.py[line:120] INFO: {"log_id": 6264440632213355451, "cont_sign": "571593745,1674397662"}
+2019-07-27 15:26:47 Image2BaiduApi.py[line:120] INFO: {"log_id": 8663937545647977563, "cont_sign": "4225508001,866109211"}
+2019-07-27 15:26:47 Upload2Baidu.py[line:30] INFO: 开始上传图片至Baidu,总计剩余 756948 张图片待上传
+2019-07-27 15:26:53 Image2BaiduApi.py[line:120] INFO: {"log_id": 1849049615164560155, "cont_sign": "3752505131,1715718226"}
+2019-07-27 15:26:56 Image2BaiduApi.py[line:120] INFO: {"log_id": 6318411908389778907, "cont_sign": "126224887,3936529424"}
+2019-07-27 15:26:59 Image2BaiduApi.py[line:120] INFO: {"log_id": 6418751583489147355, "cont_sign": "2873899264,3137954321"}
+2019-07-27 15:27:05 Image2BaiduApi.py[line:120] INFO: {"log_id": 1976729234705142011, "cont_sign": "287196537,1697068326"}
+2019-07-27 15:28:57 Image2BaiduApi.py[line:120] INFO: {"log_id": 2849518863981994395, "cont_sign": "1477695580,3170517634"}
+2019-07-27 15:28:57 Upload2Baidu.py[line:30] INFO: 开始上传图片至Baidu,总计剩余 756943 张图片待上传
+2019-07-27 15:29:37 Image2BaiduApi.py[line:120] INFO: {"log_id": 8136396024414200891, "cont_sign": "430150723,1560933578"}
+2019-07-27 15:29:42 Image2BaiduApi.py[line:120] INFO: {"log_id": 4917803143352694587, "cont_sign": "1286651278,1069157835"}
+2019-07-27 15:29:45 Image2BaiduApi.py[line:120] INFO: {"log_id": 5301170729170953243, "cont_sign": "3976471002,560774036"}
+2019-07-27 15:29:47 Image2BaiduApi.py[line:120] INFO: {"log_id": 8221489221265232347, "cont_sign": "1512871207,378962891"}
+2019-07-27 15:29:50 Image2BaiduApi.py[line:120] INFO: {"log_id": 1739733888517330811, "cont_sign": "1000095037,2698602201"}
+2019-07-27 15:29:50 Upload2Baidu.py[line:30] INFO: 开始上传图片至Baidu,总计剩余 756938 张图片待上传
+2019-07-27 15:29:54 Image2BaiduApi.py[line:120] INFO: {"log_id": 4105555413932092315, "cont_sign": "2525358918,4159984248"}
+2019-07-27 15:30:01 Image2BaiduApi.py[line:120] INFO: {"log_id": 5451329026679362459, "cont_sign": "849747554,3088395502"}
+2019-07-27 15:32:17 Image2BaiduApi.py[line:120] INFO: {"log_id": 7535363472228446011, "cont_sign": "1521107400,3421776247"}
+2019-07-27 15:33:16 Image2BaiduApi.py[line:120] INFO: {"log_id": 6509798716541669339, "cont_sign": "2995329645,482970258"}
+2019-07-27 15:33:16 Upload2Baidu.py[line:30] INFO: 开始上传图片至Baidu,总计剩余 756933 张图片待上传
+2019-07-27 15:33:21 Image2BaiduApi.py[line:120] INFO: {"log_id": 3280745108955452603, "cont_sign": "356181950,3749927245"}
+2019-07-27 15:33:23 Image2BaiduApi.py[line:120] INFO: {"log_id": 5642825423517889147, "cont_sign": "2119380389,2031875519"}
+2019-07-27 15:33:26 Image2BaiduApi.py[line:120] INFO: {"log_id": 8597953746818621083, "cont_sign": "1360434426,1435259863"}
+2019-07-27 15:33:31 Image2BaiduApi.py[line:120] INFO: {"log_id": 5218928383028049947, "cont_sign": "3692685021,1814590355"}
+2019-07-27 15:33:32 Image2BaiduApi.py[line:120] INFO: {"log_id": 1927391073051600315, "cont_sign": "4172590434,1378912149"}
+2019-07-27 15:33:32 Upload2Baidu.py[line:30] INFO: 开始上传图片至Baidu,总计剩余 756928 张图片待上传
+2019-07-27 15:33:38 Image2BaiduApi.py[line:120] INFO: {"log_id": 2235095096069150139, "cont_sign": "637856318,433698484"}
+2019-07-27 15:33:42 Image2BaiduApi.py[line:120] INFO: {"log_id": 6222959069850733467, "cont_sign": "1871585118,4124688516"}
+2019-07-27 15:33:42 Image2BaiduApi.py[line:120] INFO: {"log_id": 2044792357045312059, "cont_sign": "2519099839,3647641815"}
+2019-07-27 15:33:45 Image2BaiduApi.py[line:120] INFO: {"log_id": 4773819280494263515, "cont_sign": "1049109398,2413420393"}
+2019-07-27 15:33:46 Image2BaiduApi.py[line:120] INFO: {"log_id": 4626089290465783291, "cont_sign": "3128743000,2802818385"}
+2019-07-27 15:33:46 Upload2Baidu.py[line:30] INFO: 开始上传图片至Baidu,总计剩余 756923 张图片待上传
+2019-07-27 15:33:50 Image2BaiduApi.py[line:120] INFO: {"log_id": 8901540549628675547, "cont_sign": "2171281414,3175995879"}
+2019-07-27 15:33:51 Image2BaiduApi.py[line:120] INFO: {"log_id": 611590331698943835, "cont_sign": "2876477234,957233108"}
+2019-07-27 15:33:53 Image2BaiduApi.py[line:120] INFO: {"log_id": 1773525580947343899, "cont_sign": "1212538577,1610373189"}
+2019-07-27 15:33:54 Image2BaiduApi.py[line:120] INFO: {"log_id": 4765333138160576827, "cont_sign": "228009302,2422056612"}
+2019-07-27 15:34:10 Image2BaiduApi.py[line:120] INFO: {"log_id": 4489519939572137563, "cont_sign": "1613595188,1759632200"}
+2019-07-27 15:34:10 Upload2Baidu.py[line:30] INFO: 开始上传图片至Baidu,总计剩余 756918 张图片待上传
+2019-07-27 15:34:15 Image2BaiduApi.py[line:120] INFO: {"log_id": 1146959631352783227, "cont_sign": "2690599980,3286207255"}
+2019-07-27 15:34:15 Image2BaiduApi.py[line:120] INFO: {"log_id": 990176742353634203, "cont_sign": "2424525186,2482510088"}
+2019-07-27 15:34:21 Image2BaiduApi.py[line:120] INFO: {"log_id": 5709060427739373371, "cont_sign": "167280818,710039059"}
+2019-07-27 15:34:21 Image2BaiduApi.py[line:120] INFO: {"log_id": 3140826347038649755, "cont_sign": "2592603193,1958240242"}
+2019-07-27 15:34:25 Image2BaiduApi.py[line:120] INFO: {"log_id": 4010052412560992539, "cont_sign": "1929470476,3492989904"}
+2019-07-27 15:34:25 Upload2Baidu.py[line:30] INFO: 开始上传图片至Baidu,总计剩余 756913 张图片待上传
+2019-07-27 15:34:30 Image2BaiduApi.py[line:120] INFO: {"log_id": 4607505525990884923, "cont_sign": "129944998,2773649651"}
+2019-07-27 15:34:30 Image2BaiduApi.py[line:120] INFO: {"log_id": 7598779064872410619, "cont_sign": "2559711151,2073904598"}
+2019-07-27 15:34:33 Image2BaiduApi.py[line:120] INFO: {"log_id": 2866341531432610459, "cont_sign": "2568777495,3831721045"}
+2019-07-27 15:34:35 Image2BaiduApi.py[line:120] INFO: {"log_id": 2251890780270074171, "error_code": 216681, "cont_sign": "539330809,3311172623", "error_msg": "item has existed"}
+2019-07-27 15:34:38 Image2BaiduApi.py[line:120] INFO: {"log_id": 5022318410170458555, "cont_sign": "740289610,203253403"}
+2019-07-27 15:34:38 Upload2Baidu.py[line:30] INFO: 开始上传图片至Baidu,总计剩余 756908 张图片待上传
+2019-07-27 15:34:41 Image2BaiduApi.py[line:120] INFO: {"log_id": 5096212078098187899, "cont_sign": "1922567153,3476962915"}
+2019-07-27 15:34:43 Image2BaiduApi.py[line:120] INFO: {"log_id": 7479908297978839803, "cont_sign": "980314390,76790432"}
+2019-07-27 15:34:45 Image2BaiduApi.py[line:120] INFO: {"log_id": 3816263555153149435, "cont_sign": "239033549,2598031538"}
+2019-07-27 15:34:45 Image2BaiduApi.py[line:120] INFO: {"log_id": 7498244016191555771, "cont_sign": "3719044909,2706239664"}
+2019-07-27 15:35:34 Image2BaiduApi.py[line:120] INFO: {"log_id": 4364552724296675483, "cont_sign": "1445611390,2841226775"}
+2019-07-27 15:35:34 Upload2Baidu.py[line:30] INFO: 开始上传图片至Baidu,总计剩余 756903 张图片待上传
+2019-07-27 15:35:37 Image2BaiduApi.py[line:120] INFO: {"log_id": 8977466209578693787, "cont_sign": "2314119671,1068460696"}
+2019-07-27 15:35:38 Image2BaiduApi.py[line:120] INFO: {"log_id": 5480885001775437947, "cont_sign": "661900012,3539321129"}
+2019-07-27 15:35:41 Image2BaiduApi.py[line:120] INFO: {"log_id": 3050414558025191963, "cont_sign": "411179712,3285275209"}
+2019-07-27 15:35:43 Image2BaiduApi.py[line:120] INFO: {"log_id": 7009770051911194715, "cont_sign": "3576346212,620318355"}
+2019-07-27 15:35:44 Image2BaiduApi.py[line:120] INFO: {"log_id": 4603440995419303643, "cont_sign": "1690105132,718296498"}
+2019-07-27 15:35:44 Upload2Baidu.py[line:30] INFO: 开始上传图片至Baidu,总计剩余 756898 张图片待上传
+2019-07-27 15:35:47 Image2BaiduApi.py[line:120] INFO: {"log_id": 7603390358934776283, "cont_sign": "999349419,575568917"}
+2019-07-27 15:35:51 Image2BaiduApi.py[line:120] INFO: {"log_id": 5490753538593338875, "cont_sign": "2694294655,250262477"}
+2019-07-27 15:35:53 Image2BaiduApi.py[line:120] INFO: {"log_id": 9222754373429549787, "cont_sign": "2274826382,3370136222"}
+2019-07-27 15:35:56 Image2BaiduApi.py[line:120] INFO: {"log_id": 2981991479154921723, "cont_sign": "921234598,1221273284"}
+2019-07-27 15:36:56 Image2BaiduApi.py[line:120] INFO: {"log_id": 5728587145420725403, "cont_sign": "1618218754,2958251313"}
+2019-07-27 15:36:56 Upload2Baidu.py[line:30] INFO: 开始上传图片至Baidu,总计剩余 756893 张图片待上传
+2019-07-27 15:37:00 Image2BaiduApi.py[line:120] INFO: {"log_id": 8558242546200312507, "cont_sign": "890504283,2595431328"}
+2019-07-27 15:37:01 Image2BaiduApi.py[line:120] INFO: {"log_id": 1730929334966329819, "cont_sign": "1042490113,3728398781"}
+2019-07-27 15:37:06 Image2BaiduApi.py[line:120] INFO: {"log_id": 5672901756371464091, "cont_sign": "1768865417,754147147"}
+2019-07-27 15:37:06 Image2BaiduApi.py[line:120] INFO: {"log_id": 6753063715087652475, "cont_sign": "2633102136,1102463106"}
+2019-07-27 15:37:50 Image2BaiduApi.py[line:120] INFO: {"log_id": 8336439395843322075, "cont_sign": "839998774,2360196576"}
+2019-07-27 15:37:50 Upload2Baidu.py[line:30] INFO: 开始上传图片至Baidu,总计剩余 756888 张图片待上传
+2019-07-27 15:37:54 Image2BaiduApi.py[line:120] INFO: {"log_id": 6175684647699004219, "cont_sign": "2595209277,3491674849"}
+2019-07-27 15:37:57 Image2BaiduApi.py[line:120] INFO: {"log_id": 8006175973185064443, "cont_sign": "3949546622,3829436969"}
+2019-07-27 15:37:58 Image2BaiduApi.py[line:120] INFO: {"log_id": 691696610901454875, "cont_sign": "2575855614,1185371928"}
+2019-07-27 15:38:01 Image2BaiduApi.py[line:120] INFO: {"log_id": 5074246094621595995, "cont_sign": "355605993,1996451444"}
+2019-07-27 15:38:02 Image2BaiduApi.py[line:120] INFO: {"log_id": 5699193971862466811, "cont_sign": "2444945761,4290162486"}
+2019-07-27 15:38:02 Upload2Baidu.py[line:30] INFO: 开始上传图片至Baidu,总计剩余 756883 张图片待上传
+2019-07-27 15:38:09 Image2BaiduApi.py[line:120] INFO: {"log_id": 6786860887817539579, "cont_sign": "3339211189,85388277"}
+2019-07-27 15:38:14 Image2BaiduApi.py[line:120] INFO: {"log_id": 6854504330017990235, "cont_sign": "2224959188,124382642"}
+2019-07-27 15:38:18 Image2BaiduApi.py[line:120] INFO: {"log_id": 3036655628349879035, "cont_sign": "1472490980,248631814"}
+2019-07-27 15:38:22 Image2BaiduApi.py[line:120] INFO: {"log_id": 9146769949222225083, "cont_sign": "2925646620,459345004"}
+2019-07-27 15:41:11 Image2BaiduApi.py[line:120] INFO: {"log_id": 2132063508097966651, "error_code": 216202, "error_msg": "image size error"}
+2019-07-27 15:41:11 Upload2Baidu.py[line:30] INFO: 开始上传图片至Baidu,总计剩余 756878 张图片待上传
+2019-07-27 15:41:17 Image2BaiduApi.py[line:120] INFO: {"log_id": 1116627320679718363, "cont_sign": "608249702,9068459"}
+2019-07-27 15:41:19 Image2BaiduApi.py[line:120] INFO: {"log_id": 5836642734850298363, "cont_sign": "632139496,2165716633"}
+2019-07-27 15:41:22 Image2BaiduApi.py[line:120] INFO: {"log_id": 924728715399534427, "cont_sign": "3562624916,2132881243"}
+2019-07-27 15:41:23 Image2BaiduApi.py[line:120] INFO: {"log_id": 4521363012749164859, "cont_sign": "1241428170,3958229997"}
+2019-07-27 15:41:26 Image2BaiduApi.py[line:120] INFO: {"log_id": 3359972681663544443, "cont_sign": "2759384613,2881232936"}
+2019-07-27 15:41:26 Upload2Baidu.py[line:30] INFO: 开始上传图片至Baidu,总计剩余 756873 张图片待上传
+2019-07-27 15:41:32 Image2BaiduApi.py[line:120] INFO: {"log_id": 2033038688907873115, "cont_sign": "998052435,2493913879"}
+2019-07-27 15:41:35 Image2BaiduApi.py[line:120] INFO: {"log_id": 6891979292189320251, "cont_sign": "2422648486,392279486"}
+2019-07-27 15:41:37 Image2BaiduApi.py[line:120] INFO: {"log_id": 3731530024730527131, "cont_sign": "4088028738,2877155014"}
+2019-07-27 15:41:43 Image2BaiduApi.py[line:120] INFO: {"log_id": 2214906263778218875, "cont_sign": "3820770452,3993508198"}
+2019-07-27 15:41:46 Image2BaiduApi.py[line:120] INFO: {"log_id": 3921759870622682907, "cont_sign": "752792101,4097164856"}
+2019-07-27 15:41:46 Upload2Baidu.py[line:30] INFO: 开始上传图片至Baidu,总计剩余 756868 张图片待上传
+2019-07-27 15:41:51 Image2BaiduApi.py[line:120] INFO: {"log_id": 2983059458317177883, "cont_sign": "864521080,3336586448"}
+2019-07-27 15:41:54 Image2BaiduApi.py[line:120] INFO: {"log_id": 7095552301110471035, "cont_sign": "1903043890,464545482"}
+2019-07-27 15:41:56 Image2BaiduApi.py[line:120] INFO: {"log_id": 6163871475042630011, "cont_sign": "909817130,1270058789"}
+2019-07-27 15:41:56 Image2BaiduApi.py[line:120] INFO: {"log_id": 4637537025868763419, "cont_sign": "386875925,2120091478"}
+2019-07-27 15:42:02 Image2BaiduApi.py[line:120] INFO: {"log_id": 3321364959712317563, "cont_sign": "450282656,655655809"}
+2019-07-27 15:42:02 Upload2Baidu.py[line:30] INFO: 开始上传图片至Baidu,总计剩余 756863 张图片待上传
+2019-07-27 15:42:06 Image2BaiduApi.py[line:120] INFO: {"log_id": 7762305870547334683, "cont_sign": "3787205890,2589746469"}
+2019-07-27 15:42:06 Image2BaiduApi.py[line:120] INFO: {"log_id": 1951255270225957691, "cont_sign": "1272459773,1147609043"}
+2019-07-27 15:42:09 Image2BaiduApi.py[line:120] INFO: {"log_id": 1598558227007830171, "cont_sign": "501621718,4210649682"}
+2019-07-27 15:42:10 Image2BaiduApi.py[line:120] INFO: {"log_id": 9062890361862199931, "cont_sign": "925765381,3615474362"}
+2019-07-27 15:42:12 Image2BaiduApi.py[line:120] INFO: {"log_id": 4213387118721626075, "cont_sign": "2064188478,2957655423"}
+2019-07-27 15:42:13 Upload2Baidu.py[line:30] INFO: 开始上传图片至Baidu,总计剩余 756858 张图片待上传
+2019-07-27 15:42:17 Image2BaiduApi.py[line:120] INFO: {"log_id": 8121876709084902427, "cont_sign": "3687269214,4115942508"}
+2019-07-27 15:42:20 Image2BaiduApi.py[line:120] INFO: {"log_id": 1697642910105221755, "cont_sign": "2948313376,583345887"}
+2019-07-27 15:42:24 Image2BaiduApi.py[line:120] INFO: {"log_id": 1925386756864936955, "cont_sign": "545893323,4014825299"}
+2019-07-27 15:42:26 Image2BaiduApi.py[line:120] INFO: {"log_id": 9057838286577349947, "cont_sign": "3907562952,2328608632"}
+2019-07-27 15:42:35 Image2BaiduApi.py[line:120] INFO: {"log_id": 3162393328919563547, "cont_sign": "1022435383,4199466962"}
+2019-07-27 15:42:35 Upload2Baidu.py[line:30] INFO: 开始上传图片至Baidu,总计剩余 756853 张图片待上传
+2019-07-27 15:42:38 Image2BaiduApi.py[line:120] INFO: {"log_id": 4815373997561386875, "cont_sign": "418312090,3317138771"}
+2019-07-27 15:42:41 Image2BaiduApi.py[line:120] INFO: {"log_id": 1541960121441865115, "cont_sign": "3500649417,3891665732"}
+2019-07-27 15:42:45 Image2BaiduApi.py[line:120] INFO: {"log_id": 6664531646823712059, "error_code": 216202, "error_msg": "image size error"}
+2019-07-27 15:42:46 Image2BaiduApi.py[line:120] INFO: {"log_id": 2169959199669068315, "cont_sign": "3025413542,2615046724"}
+2019-07-27 15:42:50 Image2BaiduApi.py[line:120] INFO: {"log_id": 3098956536179525179, "cont_sign": "3890014455,3527294903"}
+2019-07-27 15:42:50 Upload2Baidu.py[line:30] INFO: 开始上传图片至Baidu,总计剩余 756848 张图片待上传
+2019-07-27 15:42:54 Image2BaiduApi.py[line:120] INFO: {"log_id": 6354761251126541819, "cont_sign": "2954160410,673168892"}
+2019-07-27 15:42:58 Image2BaiduApi.py[line:120] INFO: {"log_id": 1713732563676187643, "cont_sign": "4240338807,4274097678"}
+2019-07-27 15:43:11 Image2BaiduApi.py[line:120] INFO: {"log_id": 8183419572414190843, "error_code": 216202, "error_msg": "image size error"}
+2019-07-27 15:43:15 Image2BaiduApi.py[line:120] INFO: {"log_id": 2417141645876580699, "cont_sign": "940803471,1180120388"}
+2019-07-27 15:43:50 Image2BaiduApi.py[line:120] INFO: {"log_id": 7852516471262791707, "cont_sign": "3824035437,4100258867"}
+2019-07-27 15:43:50 Upload2Baidu.py[line:30] INFO: 开始上传图片至Baidu,总计剩余 756843 张图片待上传
+2019-07-27 15:43:57 Image2BaiduApi.py[line:120] INFO: {"log_id": 3153586753845271963, "cont_sign": "792769219,3480077843"}
+2019-07-27 15:44:00 Image2BaiduApi.py[line:120] INFO: {"log_id": 2088777164633574971, "cont_sign": "949444097,1506169106"}
+2019-07-27 15:44:02 Image2BaiduApi.py[line:120] INFO: {"log_id": 1940453006411749371, "cont_sign": "2114234523,4139808232"}
+2019-07-27 15:44:03 Image2BaiduApi.py[line:120] INFO: {"log_id": 2590884794036775995, "cont_sign": "267025084,854522016"}
+2019-07-27 15:44:05 Image2BaiduApi.py[line:120] INFO: {"log_id": 1849834216126469307, "cont_sign": "2095166833,3062476707"}
+2019-07-27 15:44:05 Upload2Baidu.py[line:30] INFO: 开始上传图片至Baidu,总计剩余 756838 张图片待上传
+2019-07-27 15:44:09 Image2BaiduApi.py[line:120] INFO: {"log_id": 6483986801456076475, "cont_sign": "3047245223,695205710"}
+2019-07-27 15:44:13 Image2BaiduApi.py[line:120] INFO: {"log_id": 8660468927694231579, "cont_sign": "4289056689,2031053314"}
+2019-07-27 15:44:16 Image2BaiduApi.py[line:120] INFO: {"log_id": 1580318009698714523, "cont_sign": "2954301122,4215537966"}
+2019-07-27 15:44:19 Image2BaiduApi.py[line:120] INFO: {"log_id": 521634570254794523, "cont_sign": "3020572253,700059481"}
+2019-07-27 15:44:27 Image2BaiduApi.py[line:120] INFO: {"log_id": 2770982545149516539, "error_code": 216202, "error_msg": "image size error"}
+2019-07-27 15:44:27 Upload2Baidu.py[line:30] INFO: 开始上传图片至Baidu,总计剩余 756833 张图片待上传
+2019-07-27 15:44:30 Image2BaiduApi.py[line:120] INFO: {"log_id": 125380653274247067, "cont_sign": "1637407300,3838396173"}
+2019-07-27 15:44:35 Image2BaiduApi.py[line:120] INFO: {"log_id": 2283832235979649499, "cont_sign": "3497322438,4187360658"}
+2019-07-27 15:44:39 Image2BaiduApi.py[line:120] INFO: {"log_id": 3176910292403147803, "cont_sign": "4280232130,1438229479"}
+2019-07-27 15:44:49 Image2BaiduApi.py[line:120] INFO: {"log_id": 5616683203092214043, "cont_sign": "3192435005,4056045986"}
+2019-07-27 15:46:38 Upload2Baidu.py[line:30] INFO: 开始上传图片至Baidu,总计剩余 756828 张图片待上传
+2019-07-27 15:46:44 Image2BaiduApi.py[line:120] INFO: {"log_id": 906770322904954491, "cont_sign": "3012580756,1274661938"}
+2019-07-27 15:46:45 Image2BaiduApi.py[line:120] INFO: {"log_id": 5784811130160791579, "cont_sign": "2723262428,3653956291"}
+2019-07-27 15:46:50 Image2BaiduApi.py[line:120] INFO: {"log_id": 2371266182973837531, "cont_sign": "1069248209,2011398282"}
+2019-07-27 15:46:51 Image2BaiduApi.py[line:120] INFO: {"log_id": 7584372726348716891, "cont_sign": "1702329724,3592790552"}
+2019-07-27 15:46:54 Image2BaiduApi.py[line:120] INFO: {"log_id": 6885969697788964635, "cont_sign": "1794179610,632673292"}
+2019-07-27 15:46:54 Upload2Baidu.py[line:30] INFO: 开始上传图片至Baidu,总计剩余 756823 张图片待上传
+2019-07-27 15:47:00 Image2BaiduApi.py[line:120] INFO: {"log_id": 2686766953525426907, "cont_sign": "1408063871,3205188319"}
+2019-07-27 15:47:02 Image2BaiduApi.py[line:120] INFO: {"log_id": 9006676954208087355, "cont_sign": "206852012,3304785814"}
+2019-07-27 15:47:03 Image2BaiduApi.py[line:120] INFO: {"log_id": 8672920464160046331, "cont_sign": "39254863,4204001155"}
+2019-07-27 15:47:09 Image2BaiduApi.py[line:120] INFO: {"log_id": 1445487738740787771, "cont_sign": "84834769,2957654930"}
+2019-07-27 15:47:10 Image2BaiduApi.py[line:120] INFO: {"log_id": 3037256427437205371, "cont_sign": "1653130763,374815078"}
+2019-07-27 15:47:10 Upload2Baidu.py[line:30] INFO: 开始上传图片至Baidu,总计剩余 756818 张图片待上传
+2019-07-27 15:47:17 Image2BaiduApi.py[line:120] INFO: {"log_id": 6587364766421632283, "cont_sign": "2330871067,344965426"}
+2019-07-27 15:47:21 Image2BaiduApi.py[line:120] INFO: {"log_id": 6569165109972523163, "cont_sign": "376606536,1879424678"}
+2019-07-27 15:47:24 Image2BaiduApi.py[line:120] INFO: {"log_id": 5687405328118348571, "cont_sign": "427986199,3290244447"}
+2019-07-27 15:47:28 Image2BaiduApi.py[line:120] INFO: {"log_id": 8530826656809862619, "cont_sign": "1917590939,936519566"}
+2019-07-27 15:48:05 Image2BaiduApi.py[line:120] INFO: {"log_id": 818241305155394363, "cont_sign": "3465236021,1354203930"}
+2019-07-27 15:48:05 Upload2Baidu.py[line:30] INFO: 开始上传图片至Baidu,总计剩余 756813 张图片待上传
+2019-07-27 15:48:12 Image2BaiduApi.py[line:120] INFO: {"log_id": 1489499702024320475, "cont_sign": "1373555472,3771071734"}
+2019-07-27 15:48:14 Image2BaiduApi.py[line:120] INFO: {"log_id": 7833111218340946843, "cont_sign": "4225482355,1281730320"}
+2019-07-27 15:48:19 Image2BaiduApi.py[line:120] INFO: {"log_id": 6344529065231003163, "cont_sign": "1439292178,991671450"}
+2019-07-27 15:49:00 Image2BaiduApi.py[line:120] INFO: {"log_id": 6501040856621979163, "cont_sign": "2011707969,1836879675"}
+2019-07-27 15:51:04 Image2BaiduApi.py[line:120] INFO: {"log_id": 5854661043498234843, "cont_sign": "1968000417,114185808"}
+2019-07-27 15:51:04 Upload2Baidu.py[line:30] INFO: 开始上传图片至Baidu,总计剩余 756808 张图片待上传
+2019-07-27 15:51:07 Image2BaiduApi.py[line:120] INFO: {"log_id": 3439873909661328347, "cont_sign": "3585459287,939983397"}
+2019-07-27 15:51:10 Image2BaiduApi.py[line:120] INFO: {"log_id": 2650197002087116603, "cont_sign": "2852841112,2007965024"}
+2019-07-27 15:51:14 Image2BaiduApi.py[line:120] INFO: {"log_id": 3448101737614494939, "cont_sign": "3679773250,609335280"}
+2019-07-27 15:51:19 Image2BaiduApi.py[line:120] INFO: {"log_id": 5168139657963887867, "cont_sign": "2594158481,1390687027"}
+2019-07-27 15:51:21 Image2BaiduApi.py[line:120] INFO: {"log_id": 4596257302843713627, "cont_sign": "2605493849,3941189232"}
+2019-07-27 15:51:21 Upload2Baidu.py[line:30] INFO: 开始上传图片至Baidu,总计剩余 756803 张图片待上传
+2019-07-27 15:51:25 Image2BaiduApi.py[line:120] INFO: {"log_id": 9169089547545656379, "cont_sign": "91395714,2768032126"}
+2019-07-27 15:51:31 Image2BaiduApi.py[line:120] INFO: {"log_id": 432387440389567675, "cont_sign": "2211268905,434668499"}
+2019-07-27 15:51:37 Image2BaiduApi.py[line:120] INFO: {"log_id": 2155853131891090427, "cont_sign": "2167664361,4179627826"}
+2019-07-27 15:51:58 Image2BaiduApi.py[line:120] INFO: {"log_id": 1058564875962695803, "cont_sign": "2548193528,3073446930"}
+2019-07-27 16:00:07 Image2BaiduApi.py[line:120] INFO: {"log_id": 1189375324084239931, "error_code": 216202, "error_msg": "image size error"}
+2019-07-27 16:00:07 Upload2Baidu.py[line:30] INFO: 开始上传图片至Baidu,总计剩余 756798 张图片待上传
+2019-07-27 16:00:13 Image2BaiduApi.py[line:120] INFO: {"log_id": 3757504617447129083, "cont_sign": "3922244522,4263158406"}
+2019-07-27 16:00:20 Image2BaiduApi.py[line:120] INFO: {"log_id": 6469216158420963739, "cont_sign": "1359140747,1750383022"}
+2019-07-27 16:00:26 Image2BaiduApi.py[line:120] INFO: {"log_id": 6705359267095966011, "cont_sign": "1812600384,1325782244"}
+2019-07-27 16:00:56 Image2BaiduApi.py[line:120] INFO: {"log_id": 1561337524503577083, "cont_sign": "4252034229,2806371401"}
+2019-07-27 22:31:25 Upload2Baidu.py[line:30] INFO: 开始上传图片至Baidu,总计剩余 756793 张图片待上传
+2019-07-27 22:31:30 Image2BaiduApi.py[line:120] INFO: {"log_id": 3935262886122076923, "cont_sign": "1149019286,1388130780"}
+2019-07-27 22:31:33 Image2BaiduApi.py[line:120] INFO: {"log_id": 105437143813331195, "cont_sign": "1258850137,2502771479"}
+2019-07-27 22:31:34 Image2BaiduApi.py[line:120] INFO: {"log_id": 5174734317708957275, "cont_sign": "1173733285,3874694368"}
+2019-07-27 22:31:38 Image2BaiduApi.py[line:120] INFO: {"log_id": 6676965741580744123, "cont_sign": "2312055272,299893261"}
+2019-07-27 22:31:38 Upload2Baidu.py[line:30] INFO: 开始上传图片至Baidu,总计剩余 756788 张图片待上传
+2019-07-27 22:31:43 Image2BaiduApi.py[line:120] INFO: {"log_id": 6954332203447674523, "cont_sign": "2612084034,3720956991"}
+2019-07-27 22:31:44 Image2BaiduApi.py[line:120] INFO: {"log_id": 9031537922758163963, "cont_sign": "3066010885,3699012267"}
+2019-07-27 22:31:47 Image2BaiduApi.py[line:120] INFO: {"log_id": 5625346474019459515, "cont_sign": "986248095,3540277761"}
+2019-07-27 22:31:49 Image2BaiduApi.py[line:120] INFO: {"log_id": 7006242496455205307, "cont_sign": "13391769,1679435329"}
+2019-07-27 22:31:53 Image2BaiduApi.py[line:120] INFO: {"log_id": 3748110449195871067, "cont_sign": "3559337925,2117009976"}
+2019-07-27 22:31:53 Upload2Baidu.py[line:30] INFO: 开始上传图片至Baidu,总计剩余 756783 张图片待上传
+2019-07-27 22:31:58 Image2BaiduApi.py[line:120] INFO: {"log_id": 214509527586239387, "cont_sign": "472764928,453553559"}
+2019-07-27 22:32:06 Image2BaiduApi.py[line:120] INFO: {"log_id": 2493230206771530235, "cont_sign": "3688438782,2894509858"}
+2019-07-27 22:32:18 Image2BaiduApi.py[line:120] INFO: {"log_id": 7455581345708936731, "error_code": 216202, "error_msg": "image size error"}
+2019-07-27 22:32:37 Image2BaiduApi.py[line:120] INFO: {"log_id": 6887235801206118971, "cont_sign": "4180260853,783768755"}
+2019-07-27 22:34:03 Upload2Baidu.py[line:30] INFO: 开始上传图片至Baidu,总计剩余 756778 张图片待上传
+2019-07-27 22:34:06 Image2BaiduApi.py[line:120] INFO: {"log_id": 6539068911831040539, "cont_sign": "2605354461,764647273"}
+2019-07-27 22:34:07 Image2BaiduApi.py[line:120] INFO: {"log_id": 5361051992744475067, "cont_sign": "3064401103,1570431056"}
+2019-07-27 22:34:13 Image2BaiduApi.py[line:120] INFO: {"log_id": 8049008737939523419, "cont_sign": "2966009502,1524658015"}
+2019-07-27 22:34:18 Image2BaiduApi.py[line:120] INFO: {"log_id": 5104913994208641051, "cont_sign": "2600432193,2108240574"}
+2019-07-27 22:34:31 Image2BaiduApi.py[line:120] INFO: {"log_id": 1947997287686892475, "cont_sign": "1979909441,1850829072"}
+2019-07-27 22:34:31 Upload2Baidu.py[line:30] INFO: 开始上传图片至Baidu,总计剩余 756773 张图片待上传
+2019-07-27 22:34:35 Image2BaiduApi.py[line:120] INFO: {"log_id": 3353730246269917947, "cont_sign": "366953373,1409899879"}
+2019-07-27 22:34:37 Image2BaiduApi.py[line:120] INFO: {"log_id": 6878697360757974747, "cont_sign": "1391056629,2745973463"}
+2019-07-27 22:34:42 Image2BaiduApi.py[line:120] INFO: {"log_id": 6149056411293132667, "cont_sign": "3087459490,3533039680"}
+2019-07-27 22:34:42 Image2BaiduApi.py[line:120] INFO: {"log_id": 8894364900190693115, "cont_sign": "1670584904,1917748865"}
+2019-07-27 22:34:51 Image2BaiduApi.py[line:120] INFO: {"log_id": 8979097851729338139, "cont_sign": "2776789900,1637895260"}
+2019-07-27 22:34:51 Upload2Baidu.py[line:30] INFO: 开始上传图片至Baidu,总计剩余 756768 张图片待上传
+2019-07-27 22:34:56 Image2BaiduApi.py[line:120] INFO: {"log_id": 2096797654657116219, "cont_sign": "1206233601,3692963371"}
+2019-07-27 22:35:01 Image2BaiduApi.py[line:120] INFO: {"log_id": 2765425427299470587, "cont_sign": "3633862947,1342714321"}
+2019-07-27 22:35:04 Image2BaiduApi.py[line:120] INFO: {"log_id": 843618602118443035, "cont_sign": "3733578498,10035216"}
+2019-07-27 22:35:04 Image2BaiduApi.py[line:120] INFO: {"log_id": 8078790529465660891, "cont_sign": "4179641837,3048826141"}
+2019-07-27 22:35:11 Image2BaiduApi.py[line:120] INFO: {"log_id": 6653489728990287003, "cont_sign": "513741916,823970645"}
+2019-07-27 22:35:11 Upload2Baidu.py[line:30] INFO: 开始上传图片至Baidu,总计剩余 756763 张图片待上传
+2019-07-27 22:35:14 Image2BaiduApi.py[line:120] INFO: {"log_id": 3937397257320138651, "cont_sign": "875459957,1491503359"}
+2019-07-27 22:35:16 Image2BaiduApi.py[line:120] INFO: {"log_id": 1795961985836417275, "cont_sign": "4286146151,2272339018"}
+2019-07-27 22:35:18 Image2BaiduApi.py[line:120] INFO: {"log_id": 2656004567071105243, "cont_sign": "129185358,2037247723"}
+2019-07-27 22:35:25 Image2BaiduApi.py[line:120] INFO: {"log_id": 2842383351394171067, "cont_sign": "2786309403,2451330554"}
+2019-07-27 22:35:31 Image2BaiduApi.py[line:120] INFO: {"log_id": 449789600577145147, "cont_sign": "2860072588,1155020753"}
+2019-07-27 22:35:31 Upload2Baidu.py[line:30] INFO: 开始上传图片至Baidu,总计剩余 756758 张图片待上传
+2019-07-27 22:35:36 Image2BaiduApi.py[line:120] INFO: {"log_id": 5351599362927547227, "cont_sign": "1020454237,673263611"}
+2019-07-27 22:35:37 Image2BaiduApi.py[line:120] INFO: {"log_id": 2032540354511402523, "cont_sign": "1513969021,3328797183"}
+2019-07-27 22:35:41 Image2BaiduApi.py[line:120] INFO: {"log_id": 3723432098864699, "cont_sign": "182806390,1878568783"}
+2019-07-27 22:36:52 Image2BaiduApi.py[line:120] INFO: {"log_id": 5273269577318964091, "cont_sign": "3691524024,1446026573"}
+2019-07-27 22:37:21 Image2BaiduApi.py[line:120] INFO: {"log_id": 9086338672488192795, "cont_sign": "1747042743,2466795257"}
+2019-07-27 22:37:21 Upload2Baidu.py[line:30] INFO: 开始上传图片至Baidu,总计剩余 756753 张图片待上传
+2019-07-27 22:37:24 Image2BaiduApi.py[line:120] INFO: {"log_id": 824084985735278043, "cont_sign": "3737649715,1683691000"}
+2019-07-27 22:37:26 Image2BaiduApi.py[line:120] INFO: {"log_id": 6594474661767512443, "cont_sign": "4141809542,3561636689"}
+2019-07-27 22:37:28 Image2BaiduApi.py[line:120] INFO: {"log_id": 7390225325371918587, "cont_sign": "3027835418,1808406114"}
+2019-07-27 22:37:30 Image2BaiduApi.py[line:120] INFO: {"log_id": 8609068690181289499, "cont_sign": "3485328071,1446044539"}
+2019-07-27 22:39:10 Image2BaiduApi.py[line:120] INFO: {"log_id": 420141680900450779, "cont_sign": "1457915185,2716706641"}
+2019-07-27 22:39:10 Upload2Baidu.py[line:30] INFO: 开始上传图片至Baidu,总计剩余 756748 张图片待上传
+2019-07-27 22:39:15 Image2BaiduApi.py[line:120] INFO: {"log_id": 6182231461635469755, "cont_sign": "66231758,589169668"}
+2019-07-27 22:39:15 Image2BaiduApi.py[line:120] INFO: {"log_id": 5608928987001852347, "error_code": 216681, "cont_sign": "1445611390,2841226775", "error_msg": "item has existed"}
+2019-07-27 22:39:19 Image2BaiduApi.py[line:120] INFO: {"log_id": 6396739607444056187, "cont_sign": "4147683546,2735345702"}
+2019-07-27 22:39:22 Image2BaiduApi.py[line:120] INFO: {"log_id": 7667976551664778907, "cont_sign": "533700143,3785881375"}
+2019-07-27 22:41:10 Image2BaiduApi.py[line:120] INFO: {"log_id": 4969460486518822683, "cont_sign": "47094848,2361492900"}
+2019-07-27 22:41:10 Upload2Baidu.py[line:30] INFO: 开始上传图片至Baidu,总计剩余 756743 张图片待上传
+2019-07-27 22:41:15 Image2BaiduApi.py[line:120] INFO: {"log_id": 3724474082005863451, "cont_sign": "4286101817,3869268128"}
+2019-07-27 22:41:15 Image2BaiduApi.py[line:120] INFO: {"log_id": 1231047133575295835, "cont_sign": "575410145,2353069527"}
+2019-07-27 22:41:18 Image2BaiduApi.py[line:120] INFO: {"log_id": 1807224581564988763, "cont_sign": "1408739479,3849829096"}
+2019-07-27 22:41:21 Image2BaiduApi.py[line:120] INFO: {"log_id": 2959479959764497787, "cont_sign": "3918137303,2487576643"}
+2019-07-27 22:41:30 Image2BaiduApi.py[line:120] INFO: {"log_id": 4688321006479667131, "cont_sign": "3623185901,2516219327"}
+2019-07-27 22:41:30 Upload2Baidu.py[line:30] INFO: 开始上传图片至Baidu,总计剩余 756738 张图片待上传
+2019-07-27 22:41:40 Image2BaiduApi.py[line:120] INFO: {"log_id": 4608827931810086939, "cont_sign": "3326221263,2080631925"}
+2019-07-27 22:41:42 Image2BaiduApi.py[line:120] INFO: {"log_id": 4344510049649787899, "cont_sign": "1650178223,2033131392"}
+2019-07-27 22:41:48 Image2BaiduApi.py[line:120] INFO: {"log_id": 8420978244135418555, "cont_sign": "752183382,3580487225"}
+2019-07-27 22:41:48 Image2BaiduApi.py[line:120] INFO: {"log_id": 4213111263143809755, "cont_sign": "3590460695,1928436467"}
+2019-07-27 22:41:55 Image2BaiduApi.py[line:120] INFO: {"log_id": 3201073023926726715, "cont_sign": "2291184036,4071532395"}
+2019-07-27 22:41:55 Upload2Baidu.py[line:30] INFO: 开始上传图片至Baidu,总计剩余 756733 张图片待上传
+2019-07-27 22:41:59 Image2BaiduApi.py[line:120] INFO: {"log_id": 7898679672674345627, "cont_sign": "4250150569,3456924179"}
+2019-07-27 22:42:00 Image2BaiduApi.py[line:120] INFO: {"log_id": 141242556829481947, "cont_sign": "1661033122,2526613747"}
+2019-07-27 22:42:05 Image2BaiduApi.py[line:120] INFO: {"log_id": 7695509851432351803, "cont_sign": "210011943,3522790653"}
+2019-07-27 22:42:08 Image2BaiduApi.py[line:120] INFO: {"log_id": 1723681117095265019, "cont_sign": "491490758,3926794899"}
+2019-07-27 22:42:08 Image2BaiduApi.py[line:120] INFO: {"log_id": 4283956306172649019, "cont_sign": "2344575658,1861387059"}
+2019-07-27 22:42:08 Upload2Baidu.py[line:30] INFO: 开始上传图片至Baidu,总计剩余 756728 张图片待上传
+2019-07-27 22:42:12 Image2BaiduApi.py[line:120] INFO: {"log_id": 4160869733178301499, "cont_sign": "675162873,2137183224"}
+2019-07-27 22:42:13 Image2BaiduApi.py[line:120] INFO: {"log_id": 1242108685956928571, "cont_sign": "1291596295,420831071"}
+2019-07-27 22:42:22 Image2BaiduApi.py[line:120] INFO: {"log_id": 3439669747313095899, "cont_sign": "3246504362,210855752"}
+2019-07-27 22:42:29 Image2BaiduApi.py[line:120] INFO: {"log_id": 3652922501772665851, "cont_sign": "4068922768,3220667590"}
+2019-07-27 22:43:26 Image2BaiduApi.py[line:120] INFO: {"log_id": 3535678311239577403, "cont_sign": "1234848176,2849150410"}
+2019-07-27 22:43:26 Upload2Baidu.py[line:30] INFO: 开始上传图片至Baidu,总计剩余 756723 张图片待上传
+2019-07-27 22:43:30 Image2BaiduApi.py[line:120] INFO: {"log_id": 2472059529489714459, "cont_sign": "3708972608,120542613"}
+2019-07-27 22:43:36 Image2BaiduApi.py[line:120] INFO: {"log_id": 5150687840237821499, "cont_sign": "4108296231,1958849779"}
+2019-07-27 22:43:39 Image2BaiduApi.py[line:120] INFO: {"log_id": 7648389645278601531, "cont_sign": "3754110957,2781583731"}
+2019-07-27 22:43:43 Image2BaiduApi.py[line:120] INFO: {"log_id": 1195434329005708859, "cont_sign": "1369518206,414623899"}
+2019-07-27 22:45:55 Image2BaiduApi.py[line:120] INFO: {"log_id": 9168730114661720891, "cont_sign": "286692953,1603169718"}
+2019-07-27 22:45:55 Upload2Baidu.py[line:30] INFO: 开始上传图片至Baidu,总计剩余 756718 张图片待上传
+2019-07-27 22:46:02 Image2BaiduApi.py[line:120] INFO: {"log_id": 5317621411774148283, "cont_sign": "1749303595,1999634629"}
+2019-07-27 22:46:37 Image2BaiduApi.py[line:120] INFO: {"log_id": 4305424679500393659, "cont_sign": "4114023308,162234766"}
+2019-07-27 22:46:43 Image2BaiduApi.py[line:120] INFO: {"log_id": 3692475275307323035, "cont_sign": "1267714913,2159110810"}
+2019-07-27 22:49:22 Image2BaiduApi.py[line:120] INFO: {"log_id": 8509363497496300123, "cont_sign": "409127655,3492871452"}
+2019-07-27 22:50:17 Image2BaiduApi.py[line:120] INFO: {"log_id": 4190325467863906171, "error_code": 216202, "error_msg": "image size error"}
+2019-07-27 22:50:17 Upload2Baidu.py[line:30] INFO: 开始上传图片至Baidu,总计剩余 756713 张图片待上传
+2019-07-27 22:50:21 Image2BaiduApi.py[line:120] INFO: {"log_id": 1472700631227398075, "cont_sign": "2927872710,1765592488"}
+2019-07-27 22:50:24 Image2BaiduApi.py[line:120] INFO: {"log_id": 2904834554232562075, "cont_sign": "261914883,461770857"}
+2019-07-27 22:50:25 Image2BaiduApi.py[line:120] INFO: {"log_id": 6463815019104262939, "cont_sign": "795322911,804103384"}
+2019-07-27 22:50:30 Image2BaiduApi.py[line:120] INFO: {"log_id": 7724316435369438619, "cont_sign": "3359786268,1195100896"}
+2019-07-27 22:50:30 Image2BaiduApi.py[line:120] INFO: {"log_id": 3336239071303382395, "cont_sign": "2835591470,1672833659"}
+2019-07-27 22:50:31 Upload2Baidu.py[line:30] INFO: 开始上传图片至Baidu,总计剩余 756708 张图片待上传
+2019-07-27 22:50:35 Image2BaiduApi.py[line:120] INFO: {"log_id": 6511617792610523291, "cont_sign": "1065414058,2791535727"}
+2019-07-27 22:50:41 Image2BaiduApi.py[line:120] INFO: {"log_id": 5432160582989731611, "cont_sign": "2568444779,2841045797"}
+2019-07-27 22:50:49 Image2BaiduApi.py[line:120] INFO: {"log_id": 3964020410771345371, "cont_sign": "4215355910,2445600302"}
+2019-07-27 22:51:20 Image2BaiduApi.py[line:120] INFO: {"log_id": 7375451345176995803, "cont_sign": "958465504,4238987388"}
+2019-07-27 22:51:57 Image2BaiduApi.py[line:120] INFO: {"log_id": 7861133181089735771, "cont_sign": "3995243854,2798963416"}
+2019-07-27 22:51:57 Upload2Baidu.py[line:30] INFO: 开始上传图片至Baidu,总计剩余 756703 张图片待上传
+2019-07-27 22:52:02 Image2BaiduApi.py[line:120] INFO: {"log_id": 3945464878056740315, "cont_sign": "2623304376,3157553698"}
+2019-07-27 22:52:09 Image2BaiduApi.py[line:120] INFO: {"log_id": 3616180540555593499, "cont_sign": "2053882127,4071127826"}
+2019-07-27 22:52:11 Image2BaiduApi.py[line:120] INFO: {"log_id": 7810777259026036379, "cont_sign": "4208089292,1301384340"}
+2019-07-27 22:52:13 Image2BaiduApi.py[line:120] INFO: {"log_id": 130211668850008763, "cont_sign": "3759600723,4059578396"}
+2019-07-27 22:52:14 Image2BaiduApi.py[line:120] INFO: {"log_id": 6754877751500953883, "cont_sign": "3970387228,2185834985"}
+2019-07-27 22:52:14 Upload2Baidu.py[line:30] INFO: 开始上传图片至Baidu,总计剩余 756698 张图片待上传
+2019-07-27 22:52:17 Image2BaiduApi.py[line:120] INFO: {"log_id": 4506061984346953179, "cont_sign": "518876680,1168037767"}
+2019-07-27 22:52:19 Image2BaiduApi.py[line:120] INFO: {"log_id": 378229727114243611, "cont_sign": "709138918,2103242969"}
+2019-07-27 22:52:21 Image2BaiduApi.py[line:120] INFO: {"log_id": 5966657406329000635, "cont_sign": "1563767215,649202018"}
+2019-07-27 22:52:24 Image2BaiduApi.py[line:120] INFO: {"log_id": 8395041533181152987, "cont_sign": "1260412968,2658980193"}
+2019-07-27 22:52:26 Image2BaiduApi.py[line:120] INFO: {"log_id": 4168909669606809019, "cont_sign": "4261351039,3781944242"}
+2019-07-27 22:52:26 Upload2Baidu.py[line:30] INFO: 开始上传图片至Baidu,总计剩余 756693 张图片待上传
+2019-07-27 22:52:30 Image2BaiduApi.py[line:120] INFO: {"log_id": 4644854039186329019, "cont_sign": "1857374456,1380503191"}
+2019-07-27 22:52:30 Image2BaiduApi.py[line:120] INFO: {"log_id": 4688466692305261915, "cont_sign": "32850280,4110633442"}
+2019-07-27 22:52:35 Image2BaiduApi.py[line:120] INFO: {"log_id": 3887939545550254843, "cont_sign": "142198156,1472020723"}
+2019-07-27 22:52:37 Image2BaiduApi.py[line:120] INFO: {"log_id": 8954122109421444859, "cont_sign": "815697454,2095126259"}
+2019-07-27 22:52:38 Image2BaiduApi.py[line:120] INFO: {"log_id": 4322544934130667419, "error_code": 216681, "cont_sign": "3842138466,1710814546", "error_msg": "item has existed"}
+2019-07-27 22:52:38 Upload2Baidu.py[line:30] INFO: 开始上传图片至Baidu,总计剩余 756688 张图片待上传
+2019-07-27 22:52:42 Image2BaiduApi.py[line:120] INFO: {"log_id": 2064777822913156187, "cont_sign": "58613816,32105108"}
+2019-07-27 22:52:43 Image2BaiduApi.py[line:120] INFO: {"log_id": 2638178307887318331, "cont_sign": "3822054509,1035125108"}
+2019-07-27 22:52:45 Image2BaiduApi.py[line:120] INFO: {"log_id": 1491939454627980123, "cont_sign": "1665353352,1926383139"}
+2019-07-27 22:52:48 Image2BaiduApi.py[line:120] INFO: {"log_id": 4606938441528293691, "cont_sign": "503488881,1698577415"}
+2019-07-27 22:52:49 Image2BaiduApi.py[line:120] INFO: {"log_id": 9100412905797766747, "cont_sign": "3728357098,2560987020"}
+2019-07-27 22:52:49 Upload2Baidu.py[line:30] INFO: 开始上传图片至Baidu,总计剩余 756683 张图片待上传
+2019-07-27 22:52:53 Image2BaiduApi.py[line:120] INFO: {"log_id": 1173964130508534811, "cont_sign": "3093838942,515117229"}
+2019-07-27 22:52:57 Image2BaiduApi.py[line:120] INFO: {"log_id": 5171164193141650427, "cont_sign": "1583876444,129361727"}
+2019-07-27 22:53:06 Image2BaiduApi.py[line:120] INFO: {"log_id": 3360888771766988187, "cont_sign": "1737489507,3266099003"}
+2019-07-27 22:53:11 Image2BaiduApi.py[line:120] INFO: {"log_id": 7789796091930493691, "cont_sign": "1143633495,3535679629"}
+2019-07-27 22:53:26 Image2BaiduApi.py[line:120] INFO: {"log_id": 1689086295325071419, "cont_sign": "3188654918,2836730075"}
+2019-07-27 22:53:26 Upload2Baidu.py[line:30] INFO: 开始上传图片至Baidu,总计剩余 756678 张图片待上传
+2019-07-27 22:53:29 Image2BaiduApi.py[line:120] INFO: {"log_id": 4699363138380772987, "cont_sign": "657511041,1876222105"}
+2019-07-27 22:53:30 Image2BaiduApi.py[line:120] INFO: {"log_id": 6306479777458547707, "cont_sign": "2398414583,1717611217"}
+2019-07-27 22:53:32 Image2BaiduApi.py[line:120] INFO: {"log_id": 1672812800718337947, "cont_sign": "3166497160,3905955694"}
+2019-07-27 22:53:38 Image2BaiduApi.py[line:120] INFO: {"log_id": 4632189794635843611, "cont_sign": "177061827,758058090"}
+2019-07-27 22:53:39 Image2BaiduApi.py[line:120] INFO: {"log_id": 5355797758984412891, "cont_sign": "1922760199,3628511678"}
+2019-07-27 22:53:39 Upload2Baidu.py[line:30] INFO: 开始上传图片至Baidu,总计剩余 756673 张图片待上传
+2019-07-27 22:53:42 Image2BaiduApi.py[line:120] INFO: {"log_id": 1393433536333709819, "cont_sign": "614329989,2220733294"}
+2019-07-27 22:53:43 Image2BaiduApi.py[line:120] INFO: {"log_id": 3665311168379431803, "cont_sign": "829782042,2730294368"}
+2019-07-27 22:53:45 Image2BaiduApi.py[line:120] INFO: {"log_id": 919711991051721435, "cont_sign": "235590626,4088938422"}
+2019-07-27 22:53:46 Image2BaiduApi.py[line:120] INFO: {"log_id": 8750839598197522875, "cont_sign": "2997208160,2461493085"}
+2019-07-27 22:53:50 Image2BaiduApi.py[line:120] INFO: {"log_id": 5757036097458703547, "cont_sign": "2264733586,3724426974"}
+2019-07-27 22:53:50 Upload2Baidu.py[line:30] INFO: 开始上传图片至Baidu,总计剩余 756668 张图片待上传
+2019-07-27 22:53:55 Image2BaiduApi.py[line:120] INFO: {"log_id": 1077549719923095419, "cont_sign": "3163918588,2221955240"}
+2019-07-27 22:53:58 Image2BaiduApi.py[line:120] INFO: {"log_id": 1890527404156598299, "cont_sign": "3233055394,32481739"}
+2019-07-27 22:54:03 Image2BaiduApi.py[line:120] INFO: {"log_id": 3800810119037693403, "cont_sign": "1901812225,3913867415"}
+2019-07-27 22:54:06 Image2BaiduApi.py[line:120] INFO: {"log_id": 635464107782085211, "cont_sign": "4161774754,4039947691"}
+2019-07-27 22:54:14 Image2BaiduApi.py[line:120] INFO: {"log_id": 772909751785100219, "error_code": 216202, "error_msg": "image size error"}
+2019-07-27 22:54:14 Upload2Baidu.py[line:30] INFO: 开始上传图片至Baidu,总计剩余 756663 张图片待上传
+2019-07-27 22:54:18 Image2BaiduApi.py[line:120] INFO: {"log_id": 5885606607665925723, "cont_sign": "717632921,1273919921"}
+2019-07-27 22:54:19 Image2BaiduApi.py[line:120] INFO: {"log_id": 5261098550449235035, "cont_sign": "3329325943,1522803227"}
+2019-07-27 22:54:23 Image2BaiduApi.py[line:120] INFO: {"log_id": 2517191500632856283, "cont_sign": "1317542719,1126268329"}
+2019-07-27 22:54:23 Image2BaiduApi.py[line:120] INFO: {"log_id": 7681544481956884923, "cont_sign": "3575242217,2471808275"}
+2019-07-27 22:54:26 Image2BaiduApi.py[line:120] INFO: {"log_id": 4014996872537164699, "cont_sign": "2411510036,441298077"}
+2019-07-27 22:54:26 Upload2Baidu.py[line:30] INFO: 开始上传图片至Baidu,总计剩余 756658 张图片待上传
+2019-07-27 22:54:30 Image2BaiduApi.py[line:120] INFO: {"log_id": 6394898165650030715, "cont_sign": "1274824602,621014050"}
+2019-07-27 22:54:30 Image2BaiduApi.py[line:120] INFO: {"log_id": 5431266382894162779, "cont_sign": "3378162437,3225889125"}
+2019-07-27 22:54:33 Image2BaiduApi.py[line:120] INFO: {"log_id": 383560073771175099, "cont_sign": "2666636704,3044732568"}
+2019-07-27 22:54:34 Image2BaiduApi.py[line:120] INFO: {"log_id": 8382343157835730267, "cont_sign": "2529902504,1776966054"}
+2019-07-27 22:54:36 Image2BaiduApi.py[line:120] INFO: {"log_id": 3204495603441424187, "cont_sign": "3015428097,3554770050"}
+2019-07-27 22:54:36 Upload2Baidu.py[line:30] INFO: 开始上传图片至Baidu,总计剩余 756653 张图片待上传
+2019-07-27 22:54:40 Image2BaiduApi.py[line:120] INFO: {"log_id": 417184546663951451, "cont_sign": "3832690576,2003420065"}
+2019-07-27 22:54:41 Image2BaiduApi.py[line:120] INFO: {"log_id": 7189819947242567227, "cont_sign": "2100090035,2466278945"}
+2019-07-27 22:54:45 Image2BaiduApi.py[line:120] INFO: {"log_id": 4747811450319236859, "cont_sign": "478678574,1175740114"}
+2019-07-27 22:54:48 Image2BaiduApi.py[line:120] INFO: {"log_id": 7657546723814528763, "cont_sign": "47134475,1434180485"}
+2019-07-27 22:54:49 Image2BaiduApi.py[line:120] INFO: {"log_id": 5225340697419809627, "cont_sign": "2059563140,3797177629"}
+2019-07-27 22:54:50 Upload2Baidu.py[line:30] INFO: 开始上传图片至Baidu,总计剩余 756648 张图片待上传
+2019-07-27 22:54:56 Image2BaiduApi.py[line:120] INFO: {"log_id": 4784412096163575131, "cont_sign": "322603126,1310203829"}
+2019-07-27 22:54:56 Image2BaiduApi.py[line:120] INFO: {"log_id": 3079999481664757595, "cont_sign": "1086236356,1975308198"}
+2019-07-27 22:55:00 Image2BaiduApi.py[line:120] INFO: {"log_id": 4197728697189174971, "cont_sign": "3531906076,4105177402"}
+2019-07-27 22:55:02 Image2BaiduApi.py[line:120] INFO: {"log_id": 1488928452942901147, "cont_sign": "1222331617,2455616039"}
+2019-07-27 22:55:03 Image2BaiduApi.py[line:120] INFO: {"log_id": 4875519994318489531, "cont_sign": "1116653545,315207665"}
+2019-07-27 22:55:03 Upload2Baidu.py[line:30] INFO: 开始上传图片至Baidu,总计剩余 756643 张图片待上传
+2019-07-27 22:55:08 Image2BaiduApi.py[line:120] INFO: {"log_id": 8114050793654780667, "cont_sign": "1898790484,1240614113"}
+2019-07-27 22:55:08 Image2BaiduApi.py[line:120] INFO: {"log_id": 2763205969873329979, "cont_sign": "3851636103,485244898"}
+2019-07-27 22:55:12 Image2BaiduApi.py[line:120] INFO: {"log_id": 4888224788286640603, "cont_sign": "1913692105,4226620661"}
+2019-07-27 22:55:14 Image2BaiduApi.py[line:120] INFO: {"log_id": 3319092813429144027, "cont_sign": "1075200531,1500781625"}
+2019-07-27 22:55:20 Image2BaiduApi.py[line:120] INFO: {"log_id": 2202588516731616539, "error_code": 216203, "error_msg": "input image cannot handle"}
+2019-07-27 22:55:20 Upload2Baidu.py[line:30] INFO: 开始上传图片至Baidu,总计剩余 756638 张图片待上传
+2019-07-27 22:55:23 Image2BaiduApi.py[line:120] INFO: {"log_id": 3976602309452282523, "error_code": 216681, "cont_sign": "2393665366,1765604430", "error_msg": "item has existed"}
+2019-07-27 22:55:26 Image2BaiduApi.py[line:120] INFO: {"log_id": 1153053786111084635, "cont_sign": "2238391963,209361261"}
+2019-07-27 22:55:26 Image2BaiduApi.py[line:120] INFO: {"log_id": 8060980924584981659, "cont_sign": "2337398592,2725555774"}
+2019-07-27 22:55:30 Image2BaiduApi.py[line:120] INFO: {"log_id": 4855266369694595579, "cont_sign": "343563707,3599606426"}
+2019-07-27 22:55:36 Image2BaiduApi.py[line:120] INFO: {"log_id": 6518543950232311739, "cont_sign": "918925330,3237952777"}
+2019-07-27 22:55:36 Upload2Baidu.py[line:30] INFO: 开始上传图片至Baidu,总计剩余 756633 张图片待上传
+2019-07-27 22:55:40 Image2BaiduApi.py[line:120] INFO: {"log_id": 8434810910811131963, "cont_sign": "1220505106,3908511348"}
+2019-07-27 22:55:46 Image2BaiduApi.py[line:120] INFO: {"log_id": 5184178150192712539, "cont_sign": "1259869810,4249472910"}
+2019-07-27 22:55:49 Image2BaiduApi.py[line:120] INFO: {"log_id": 9168382841726713915, "cont_sign": "1774743160,2639567001"}
+2019-07-27 22:55:55 Image2BaiduApi.py[line:120] INFO: {"log_id": 8829627653829131707, "cont_sign": "3008429465,1647255489"}
+2019-07-27 22:56:03 Image2BaiduApi.py[line:120] INFO: {"log_id": 2875170066719196891, "cont_sign": "1765052385,811089559"}
+2019-07-27 22:56:03 Upload2Baidu.py[line:30] INFO: 开始上传图片至Baidu,总计剩余 756628 张图片待上传
+2019-07-27 22:56:05 Image2BaiduApi.py[line:120] INFO: {"log_id": 8319434618035562875, "error_code": 216681, "cont_sign": "2124652222,2350582768", "error_msg": "item has existed"}
+2019-07-27 22:56:07 Image2BaiduApi.py[line:120] INFO: {"log_id": 5859778030248942779, "cont_sign": "2292198370,102153132"}
+2019-07-27 22:56:09 Image2BaiduApi.py[line:120] INFO: {"log_id": 1392245722280330395, "cont_sign": "1848386485,1166678154"}
+2019-07-27 22:56:10 Image2BaiduApi.py[line:120] INFO: {"log_id": 6676250380531725979, "cont_sign": "3433242686,2657084203"}
+2019-07-27 22:56:13 Image2BaiduApi.py[line:120] INFO: {"log_id": 5075724411108720891, "cont_sign": "540255525,2161466223"}
+2019-07-27 22:56:13 Upload2Baidu.py[line:30] INFO: 开始上传图片至Baidu,总计剩余 756623 张图片待上传
+2019-07-27 22:56:20 Image2BaiduApi.py[line:120] INFO: {"log_id": 4882683098092127899, "cont_sign": "1660359728,1339892519"}
+2019-07-27 22:56:28 Image2BaiduApi.py[line:120] INFO: {"log_id": 444982709412718619, "cont_sign": "2668284881,627198958"}
+2019-07-27 22:56:30 Image2BaiduApi.py[line:120] INFO: {"log_id": 3430304143717723835, "cont_sign": "3603914417,711734088"}
+2019-07-27 22:56:33 Image2BaiduApi.py[line:120] INFO: {"log_id": 6985662170150899515, "cont_sign": "3396056257,4018119370"}
+2019-07-27 22:57:41 Image2BaiduApi.py[line:120] INFO: {"log_id": 1515462825207585179, "cont_sign": "3518416914,2092628848"}
+2019-07-27 22:57:41 Upload2Baidu.py[line:30] INFO: 开始上传图片至Baidu,总计剩余 756618 张图片待上传
+2019-07-27 22:57:45 Image2BaiduApi.py[line:120] INFO: {"log_id": 7111242859843873851, "cont_sign": "3176126422,2636884094"}
+2019-07-27 22:57:49 Image2BaiduApi.py[line:120] INFO: {"log_id": 7734954858777026331, "cont_sign": "448113779,1619113445"}
+2019-07-27 22:57:56 Image2BaiduApi.py[line:120] INFO: {"log_id": 5967759542534704475, "cont_sign": "1579355930,264943605"}
+2019-07-27 22:59:45 Image2BaiduApi.py[line:120] INFO: {"log_id": 1526976870886402779, "error_code": 216202, "error_msg": "image size error"}
+2019-07-27 23:28:51 Upload2Baidu.py[line:30] INFO: 开始上传图片至Baidu,总计剩余 756613 张图片待上传
+2019-07-27 23:28:55 Image2BaiduApi.py[line:120] INFO: {"log_id": 713871613131027227, "cont_sign": "788231514,428810680"}
+2019-07-27 23:28:59 Image2BaiduApi.py[line:120] INFO: {"log_id": 8871582879627013595, "cont_sign": "137997287,1668548371"}
+2019-07-27 23:29:01 Image2BaiduApi.py[line:120] INFO: {"log_id": 5116444823802261531, "cont_sign": "1008373443,1464928626"}
+2019-07-27 23:29:04 Image2BaiduApi.py[line:120] INFO: {"log_id": 6533059859122742907, "cont_sign": "2803785971,1740724597"}
+2019-07-27 23:32:44 Image2BaiduApi.py[line:120] INFO: {"log_id": 6033906268249784763, "cont_sign": "3409314457,2566510950"}
+2019-07-27 23:32:44 Upload2Baidu.py[line:30] INFO: 开始上传图片至Baidu,总计剩余 756608 张图片待上传
+2019-07-27 23:32:48 Image2BaiduApi.py[line:120] INFO: {"log_id": 7794415652649242523, "cont_sign": "3131383100,947960915"}
+2019-07-27 23:32:50 Image2BaiduApi.py[line:120] INFO: {"log_id": 4610451083456759227, "cont_sign": "885891081,610428642"}
+2019-07-27 23:32:53 Image2BaiduApi.py[line:120] INFO: {"log_id": 4662517455540831995, "cont_sign": "821996652,3104496710"}
+2019-07-27 23:32:58 Image2BaiduApi.py[line:120] INFO: {"log_id": 3225752399728579419, "cont_sign": "2403320653,1518109475"}
+2019-07-27 23:33:40 Image2BaiduApi.py[line:120] INFO: {"log_id": 6238843082026056155, "cont_sign": "1994266020,1256306195"}
+2019-07-27 23:33:40 Upload2Baidu.py[line:30] INFO: 开始上传图片至Baidu,总计剩余 756603 张图片待上传
+2019-07-27 23:33:43 Image2BaiduApi.py[line:120] INFO: {"log_id": 5009636254927980539, "cont_sign": "102217773,456875119"}
+2019-07-27 23:33:46 Image2BaiduApi.py[line:120] INFO: {"log_id": 7231103229544713403, "error_code": 216203, "error_msg": "input image cannot handle"}
+2019-07-27 23:33:49 Image2BaiduApi.py[line:120] INFO: {"log_id": 5914744935343506171, "cont_sign": "818750318,3339217521"}
+2019-07-27 23:36:05 Image2BaiduApi.py[line:120] INFO: {"log_id": 3784210394724387163, "cont_sign": "1994592571,1479090432"}
+2019-07-27 23:36:05 Upload2Baidu.py[line:30] INFO: 开始上传图片至Baidu,总计剩余 756598 张图片待上传
+2019-07-27 23:36:10 Image2BaiduApi.py[line:120] INFO: {"log_id": 5862511797671924315, "cont_sign": "1808176235,2378743003"}
+2019-07-27 23:36:17 Image2BaiduApi.py[line:120] INFO: {"log_id": 596232410754194459, "cont_sign": "1025377821,75830117"}
+2019-07-27 23:36:20 Image2BaiduApi.py[line:120] INFO: {"log_id": 2473696468934602619, "cont_sign": "2668812393,2046427531"}
+2019-07-27 23:36:24 Image2BaiduApi.py[line:120] INFO: {"log_id": 5943116867139513275, "cont_sign": "2505335610,129548565"}
+2019-07-27 23:41:58 Image2BaiduApi.py[line:120] INFO: {"log_id": 5419591072822328123, "error_code": 216202, "error_msg": "image size error"}
+2019-07-27 23:41:58 Upload2Baidu.py[line:30] INFO: 开始上传图片至Baidu,总计剩余 756593 张图片待上传
+2019-07-27 23:42:08 Image2BaiduApi.py[line:120] INFO: {"log_id": 7458392832326489115, "cont_sign": "3062821473,20304830"}
+2019-07-27 23:42:11 Image2BaiduApi.py[line:120] INFO: {"log_id": 6693683505629679483, "cont_sign": "902334780,2042153445"}
+2019-07-27 23:42:15 Image2BaiduApi.py[line:120] INFO: {"log_id": 1612206432305837851, "cont_sign": "1467143130,3160531132"}
+2019-07-27 23:42:20 Image2BaiduApi.py[line:120] INFO: {"log_id": 5139663705657763323, "cont_sign": "2702661622,2999881450"}
+2019-07-27 23:43:33 Image2BaiduApi.py[line:120] INFO: {"log_id": 6604589633204856251, "cont_sign": "3417793256,4054444601"}
+2019-07-27 23:43:33 Upload2Baidu.py[line:30] INFO: 开始上传图片至Baidu,总计剩余 756588 张图片待上传
+2019-07-27 23:43:37 Image2BaiduApi.py[line:120] INFO: {"log_id": 3554414580165360827, "cont_sign": "3439316387,3127027308"}
+2019-07-27 23:43:39 Image2BaiduApi.py[line:120] INFO: {"log_id": 5759204277943934715, "cont_sign": "2594148026,1392986599"}
+2019-07-27 23:43:42 Image2BaiduApi.py[line:120] INFO: {"log_id": 3939843849109269819, "cont_sign": "3113677368,461250047"}
+2019-07-27 23:43:44 Image2BaiduApi.py[line:120] INFO: {"log_id": 3142318617317801019, "cont_sign": "775350230,3090218738"}
+2019-07-27 23:43:47 Image2BaiduApi.py[line:120] INFO: {"log_id": 5600180557707745019, "cont_sign": "2699093124,1927994200"}
+2019-07-27 23:43:47 Upload2Baidu.py[line:30] INFO: 开始上传图片至Baidu,总计剩余 756583 张图片待上传
+2019-07-27 23:43:50 Image2BaiduApi.py[line:120] INFO: {"log_id": 2190766202377018523, "cont_sign": "4206979621,1052166026"}
+2019-07-27 23:43:51 Image2BaiduApi.py[line:120] INFO: {"log_id": 1245532336943961243, "cont_sign": "668472783,3718824968"}
+2019-07-27 23:43:54 Image2BaiduApi.py[line:120] INFO: {"log_id": 787582613632902779, "cont_sign": "3868570326,429067292"}
+2019-07-27 23:43:59 Image2BaiduApi.py[line:120] INFO: {"log_id": 2135713467897298555, "cont_sign": "3233214625,1587225925"}
+2019-07-27 23:44:00 Image2BaiduApi.py[line:120] INFO: {"log_id": 6733010844906705147, "cont_sign": "3130298677,2081940096"}
+2019-07-27 23:44:00 Upload2Baidu.py[line:30] INFO: 开始上传图片至Baidu,总计剩余 756578 张图片待上传
+2019-07-27 23:44:05 Image2BaiduApi.py[line:120] INFO: {"log_id": 7361916876133095515, "cont_sign": "4043535267,907277760"}
+2019-07-27 23:44:11 Image2BaiduApi.py[line:120] INFO: {"log_id": 8287051081870697467, "cont_sign": "2824723456,3352898643"}
+2019-07-27 23:44:14 Image2BaiduApi.py[line:120] INFO: {"log_id": 3116282946537523035, "cont_sign": "2491331994,2526947902"}
+2019-07-27 23:44:17 Image2BaiduApi.py[line:120] INFO: {"log_id": 1457976712300494395, "cont_sign": "2414928313,352842657"}
+2019-07-27 23:44:19 Image2BaiduApi.py[line:120] INFO: {"log_id": 5270181546221767291, "cont_sign": "1343560597,2885601292"}
+2019-07-27 23:44:19 Upload2Baidu.py[line:30] INFO: 开始上传图片至Baidu,总计剩余 756573 张图片待上传
+2019-07-27 23:44:25 Image2BaiduApi.py[line:120] INFO: {"log_id": 7768547871205169915, "cont_sign": "1436108069,2406233773"}
+2019-07-27 23:44:26 Image2BaiduApi.py[line:120] INFO: {"log_id": 8018487406431187611, "cont_sign": "1971856536,3945068834"}
+2019-07-27 23:44:29 Image2BaiduApi.py[line:120] INFO: {"log_id": 7925760356293322651, "cont_sign": "3047433106,284558571"}
+2019-07-27 23:44:40 Image2BaiduApi.py[line:120] INFO: {"log_id": 7612195993294793595, "cont_sign": "1268677827,4036235222"}
+2019-07-27 23:45:36 Image2BaiduApi.py[line:120] INFO: {"log_id": 6761290651805854843, "cont_sign": "2243112597,80167607"}
+2019-07-27 23:45:36 Upload2Baidu.py[line:30] INFO: 开始上传图片至Baidu,总计剩余 756568 张图片待上传
+2019-07-27 23:45:41 Image2BaiduApi.py[line:120] INFO: {"log_id": 6856405631649824027, "cont_sign": "3644798966,275019735"}
+2019-07-27 23:45:41 Image2BaiduApi.py[line:120] INFO: {"log_id": 3405000868146586555, "cont_sign": "952410414,1816703440"}
+2019-07-27 23:45:43 Image2BaiduApi.py[line:120] INFO: {"log_id": 6446026902760087451, "cont_sign": "2272723587,3000209795"}
+2019-07-27 23:45:48 Image2BaiduApi.py[line:120] INFO: {"log_id": 7477190354108799611, "cont_sign": "4007113992,2630039950"}
+2019-07-27 23:45:49 Image2BaiduApi.py[line:120] INFO: {"log_id": 4163776274001670939, "cont_sign": "1419026406,819226197"}
+2019-07-27 23:45:50 Upload2Baidu.py[line:30] INFO: 开始上传图片至Baidu,总计剩余 756563 张图片待上传
+2019-07-27 23:45:54 Image2BaiduApi.py[line:120] INFO: {"log_id": 7428742829140681691, "cont_sign": "432422383,992440010"}
+2019-07-27 23:45:54 Image2BaiduApi.py[line:120] INFO: {"log_id": 4527293158383582459, "cont_sign": "1837861092,2273726431"}
+2019-07-27 23:45:56 Image2BaiduApi.py[line:120] INFO: {"log_id": 9019727358181960059, "cont_sign": "797691774,3174757973"}
+2019-07-27 23:45:59 Image2BaiduApi.py[line:120] INFO: {"log_id": 2350480016910059643, "cont_sign": "2110930378,1237950046"}
+2019-07-27 23:46:03 Image2BaiduApi.py[line:120] INFO: {"log_id": 4251656391597719419, "cont_sign": "3257503217,308070894"}
+2019-07-27 23:46:03 Upload2Baidu.py[line:30] INFO: 开始上传图片至Baidu,总计剩余 756558 张图片待上传
+2019-07-27 23:46:07 Image2BaiduApi.py[line:120] INFO: {"log_id": 6012929429734200731, "cont_sign": "2019536986,3362172047"}
+2019-07-27 23:46:07 Image2BaiduApi.py[line:120] INFO: {"log_id": 2394146630657052603, "cont_sign": "3028460293,425015810"}
+2019-07-27 23:46:12 Image2BaiduApi.py[line:120] INFO: {"log_id": 8070074264941758139, "cont_sign": "3760959000,906063062"}
+2019-07-27 23:46:14 Image2BaiduApi.py[line:120] INFO: {"log_id": 3827409930787573915, "cont_sign": "2293880545,1425044057"}
+2019-07-27 23:46:15 Image2BaiduApi.py[line:120] INFO: {"log_id": 4781818343476413531, "cont_sign": "653334717,2698846062"}
+2019-07-27 23:46:15 Upload2Baidu.py[line:30] INFO: 开始上传图片至Baidu,总计剩余 756553 张图片待上传
+2019-07-27 23:46:20 Image2BaiduApi.py[line:120] INFO: {"log_id": 8554884508624442459, "cont_sign": "2976024570,404782248"}
+2019-07-27 23:46:22 Image2BaiduApi.py[line:120] INFO: {"log_id": 2131442865912044891, "cont_sign": "3711370737,175181671"}
+2019-07-27 23:46:26 Image2BaiduApi.py[line:120] INFO: {"log_id": 1656610510144954619, "cont_sign": "1601791500,1895417457"}
+2019-07-27 23:46:27 Image2BaiduApi.py[line:120] INFO: {"log_id": 1831143641200642555, "cont_sign": "2672470016,2686325513"}
+2019-07-27 23:46:33 Image2BaiduApi.py[line:120] INFO: {"log_id": 5711975080183942651, "cont_sign": "3349081124,1946161260"}
+2019-07-27 23:46:33 Upload2Baidu.py[line:30] INFO: 开始上传图片至Baidu,总计剩余 756548 张图片待上传
+2019-07-27 23:46:36 Image2BaiduApi.py[line:120] INFO: {"log_id": 2428119123598670939, "cont_sign": "2653921892,3733920130"}
+2019-07-27 23:46:40 Image2BaiduApi.py[line:120] INFO: {"log_id": 5062870596394659771, "cont_sign": "2947474437,1397700421"}
+2019-07-27 23:46:42 Image2BaiduApi.py[line:120] INFO: {"log_id": 5421736834702402459, "cont_sign": "2049111987,3450604111"}
+2019-07-27 23:46:44 Image2BaiduApi.py[line:120] INFO: {"log_id": 2687240726683052699, "cont_sign": "84367096,1894413221"}
+2019-07-27 23:46:49 Image2BaiduApi.py[line:120] INFO: {"log_id": 4262887346929472635, "cont_sign": "2021930461,1144652402"}
+2019-07-27 23:46:49 Upload2Baidu.py[line:30] INFO: 开始上传图片至Baidu,总计剩余 756543 张图片待上传
+2019-07-27 23:46:51 Image2BaiduApi.py[line:120] INFO: {"log_id": 5981261343616984507, "cont_sign": "883602780,1617180051"}
+2019-07-27 23:46:53 Image2BaiduApi.py[line:120] INFO: {"log_id": 6509802894220989851, "cont_sign": "2893791956,527099241"}
+2019-07-27 23:46:57 Image2BaiduApi.py[line:120] INFO: {"log_id": 1661739926643685819, "cont_sign": "2775797144,3107975761"}
+2019-07-27 23:46:58 Image2BaiduApi.py[line:120] INFO: {"log_id": 7038027192470065115, "cont_sign": "2260535790,1028103026"}
+2019-07-27 23:50:28 Image2BaiduApi.py[line:120] INFO: {"log_id": 4394639659759279483, "cont_sign": "3417493730,2787526019"}
+2019-07-27 23:50:28 Upload2Baidu.py[line:30] INFO: 开始上传图片至Baidu,总计剩余 756538 张图片待上传
+2019-07-27 23:50:33 Image2BaiduApi.py[line:120] INFO: {"log_id": 4402555727235369947, "cont_sign": "3755969145,1654414955"}
+2019-07-27 23:50:36 Image2BaiduApi.py[line:120] INFO: {"log_id": 8960498426049497019, "cont_sign": "2593764702,3619114929"}
+2019-07-27 23:50:38 Image2BaiduApi.py[line:120] INFO: {"log_id": 8185904068957962011, "cont_sign": "4138066508,3122088442"}
+2019-07-27 23:50:41 Image2BaiduApi.py[line:120] INFO: {"log_id": 7669681401985483803, "cont_sign": "2016208273,1391988728"}
+2019-07-27 23:50:43 Image2BaiduApi.py[line:120] INFO: {"log_id": 1553289239722396571, "cont_sign": "1249657646,2316465563"}
+2019-07-27 23:50:43 Upload2Baidu.py[line:30] INFO: 开始上传图片至Baidu,总计剩余 756533 张图片待上传
+2019-07-27 23:50:46 Image2BaiduApi.py[line:120] INFO: {"log_id": 8991472319363540763, "cont_sign": "3172074434,653470593"}
+2019-07-27 23:50:46 Image2BaiduApi.py[line:120] INFO: {"log_id": 5511837690906275291, "cont_sign": "3030534306,4094290340"}
+2019-07-27 23:50:49 Image2BaiduApi.py[line:120] INFO: {"log_id": 5720636987998247803, "cont_sign": "2338707910,359842435"}
+2019-07-27 23:50:52 Image2BaiduApi.py[line:120] INFO: {"log_id": 7056602634008119675, "cont_sign": "3845690582,2978942898"}
+2019-07-27 23:50:52 Image2BaiduApi.py[line:120] INFO: {"log_id": 7425733764960498331, "cont_sign": "1746054627,3512967130"}
+2019-07-27 23:50:52 Upload2Baidu.py[line:30] INFO: 开始上传图片至Baidu,总计剩余 756528 张图片待上传
+2019-07-27 23:50:55 Image2BaiduApi.py[line:120] INFO: {"log_id": 6641238896553411419, "cont_sign": "3583423594,3922558571"}
+2019-07-27 23:50:57 Image2BaiduApi.py[line:120] INFO: {"log_id": 2046974583742767483, "cont_sign": "510963094,29273590"}
+2019-07-27 23:51:01 Image2BaiduApi.py[line:120] INFO: {"log_id": 6337343486923092379, "cont_sign": "1278891086,3610746267"}
+2019-07-27 23:51:20 Image2BaiduApi.py[line:120] INFO: {"log_id": 3710275498389467323, "cont_sign": "1936372665,3537371808"}
+2019-07-27 23:51:44 Image2BaiduApi.py[line:120] INFO: {"log_id": 6782509518615477595, "cont_sign": "1355421485,842952203"}
+2019-07-27 23:51:44 Upload2Baidu.py[line:30] INFO: 开始上传图片至Baidu,总计剩余 756523 张图片待上传
+2019-07-27 23:51:49 Image2BaiduApi.py[line:120] INFO: {"log_id": 1589042957017414587, "cont_sign": "984893403,4035391629"}
+2019-07-27 23:51:53 Image2BaiduApi.py[line:120] INFO: {"log_id": 9058190926548512059, "cont_sign": "2769683268,550782792"}
+2019-07-27 23:51:57 Image2BaiduApi.py[line:120] INFO: {"log_id": 2123353411380551707, "cont_sign": "406399262,2680655135"}
+2019-07-27 23:51:57 Image2BaiduApi.py[line:120] INFO: {"log_id": 5195729317688230971, "cont_sign": "1321252008,2798470717"}
+2019-07-27 23:52:03 Image2BaiduApi.py[line:120] INFO: {"log_id": 113677353866462491, "cont_sign": "1431859212,1221387369"}
+2019-07-27 23:52:03 Upload2Baidu.py[line:30] INFO: 开始上传图片至Baidu,总计剩余 756518 张图片待上传
+2019-07-27 23:52:06 Image2BaiduApi.py[line:120] INFO: {"log_id": 4068912164824044539, "cont_sign": "643320320,4114082927"}
+2019-07-27 23:52:07 Image2BaiduApi.py[line:120] INFO: {"log_id": 5780883485127578203, "cont_sign": "3261358465,1752258578"}
+2019-07-27 23:52:13 Image2BaiduApi.py[line:120] INFO: {"log_id": 8284145504453409531, "cont_sign": "412243482,2997672094"}
+2019-07-27 23:52:14 Image2BaiduApi.py[line:120] INFO: {"log_id": 1155886955607937659, "cont_sign": "487251537,732131344"}
+2019-07-27 23:52:19 Image2BaiduApi.py[line:120] INFO: {"log_id": 2013715216519301979, "cont_sign": "521994003,2537497525"}
+2019-07-27 23:52:19 Upload2Baidu.py[line:30] INFO: 开始上传图片至Baidu,总计剩余 756513 张图片待上传
+2019-07-27 23:52:22 Image2BaiduApi.py[line:120] INFO: {"log_id": 2377262225800081275, "cont_sign": "3188244068,1246672174"}
+2019-07-27 23:52:24 Image2BaiduApi.py[line:120] INFO: {"log_id": 8050755591586193371, "cont_sign": "2015612878,1071356425"}
+2019-07-27 23:52:29 Image2BaiduApi.py[line:120] INFO: {"log_id": 5112242862785972315, "cont_sign": "3768543535,4256898681"}
+2019-07-27 23:52:34 Image2BaiduApi.py[line:120] INFO: {"log_id": 4600445369387139387, "cont_sign": "895556005,1621212495"}
+2019-07-27 23:52:44 Image2BaiduApi.py[line:120] INFO: {"log_id": 3227406914797124859, "cont_sign": "2256309156,1034632618"}
+2019-07-27 23:52:44 Upload2Baidu.py[line:30] INFO: 开始上传图片至Baidu,总计剩余 756508 张图片待上传
+2019-07-27 23:52:47 Image2BaiduApi.py[line:120] INFO: {"log_id": 5048561738871201243, "cont_sign": "2252531199,3538062406"}
+2019-07-27 23:52:48 Image2BaiduApi.py[line:120] INFO: {"log_id": 394928565404609147, "cont_sign": "3008392083,257878721"}
+2019-07-27 23:52:50 Image2BaiduApi.py[line:120] INFO: {"log_id": 4041236883294546747, "cont_sign": "2746548034,970858314"}
+2019-07-27 23:52:52 Image2BaiduApi.py[line:120] INFO: {"log_id": 2914130328272095931, "cont_sign": "2258328603,2897661488"}
+2019-07-27 23:52:56 Image2BaiduApi.py[line:120] INFO: {"log_id": 8594479507055357627, "cont_sign": "4115729589,1886977511"}
+2019-07-27 23:52:56 Upload2Baidu.py[line:30] INFO: 开始上传图片至Baidu,总计剩余 756503 张图片待上传
+2019-07-27 23:53:09 Image2BaiduApi.py[line:120] INFO: {"log_id": 4658483183717589595, "cont_sign": "1904284345,2231537367"}
+2019-07-27 23:53:13 Image2BaiduApi.py[line:120] INFO: {"log_id": 1026651291025225787, "cont_sign": "476813323,3707905326"}
+2019-07-27 23:53:21 Image2BaiduApi.py[line:120] INFO: {"log_id": 4970176189087316891, "cont_sign": "727647043,3837851158"}
+2019-07-27 23:53:26 Image2BaiduApi.py[line:120] INFO: {"log_id": 106964096909559099, "cont_sign": "3141113153,2530668898"}
+2019-07-27 23:53:51 Image2BaiduApi.py[line:120] INFO: {"log_id": 7731949526197615675, "cont_sign": "2955174571,334239578"}
+2019-07-27 23:53:51 Upload2Baidu.py[line:30] INFO: 开始上传图片至Baidu,总计剩余 756498 张图片待上传
+2019-07-27 23:53:56 Image2BaiduApi.py[line:120] INFO: {"log_id": 1906270473198987579, "cont_sign": "3484094210,8697896"}
+2019-07-27 23:53:58 Image2BaiduApi.py[line:120] INFO: {"log_id": 2788047513570639355, "cont_sign": "3792453626,3557453529"}
+2019-07-27 23:54:01 Image2BaiduApi.py[line:120] INFO: {"log_id": 4612772583847761531, "cont_sign": "1231354639,1044511544"}
+2019-07-27 23:54:02 Image2BaiduApi.py[line:120] INFO: {"log_id": 7287579630206258267, "cont_sign": "3771245955,1191756511"}
+2019-07-27 23:54:07 Image2BaiduApi.py[line:120] INFO: {"log_id": 9111281773938755835, "cont_sign": "742401786,3055597111"}
+2019-07-27 23:54:07 Upload2Baidu.py[line:30] INFO: 开始上传图片至Baidu,总计剩余 756493 张图片待上传
+2019-07-27 23:56:22 Image2BaiduApi.py[line:120] INFO: {"log_id": 2052373706761032187, "cont_sign": "2760996538,170922591"}
+2019-07-27 23:56:27 Image2BaiduApi.py[line:120] INFO: {"log_id": 6795384405659679739, "cont_sign": "2158949796,1500986310"}
+2019-07-27 23:58:07 Image2BaiduApi.py[line:120] INFO: {"log_id": 6689934072772166875, "cont_sign": "2244913658,1626592484"}
